@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to Lab42 OPEN home page
+![Alt text](logo.png?raw=true "Title")
 
 You can use the [editor on GitHub](https://github.com/evangelospafilis/lab42open/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
