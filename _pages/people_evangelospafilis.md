@@ -1,7 +1,7 @@
 ---
 title: Evangelos Pafilis
 layout: single
-permalink: people/evangelospafilis/
+permalink: /people/evangelospafilis/
 ---
 
 <pafilis@hcmr.gr>
