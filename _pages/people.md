@@ -8,5 +8,5 @@ permalink: /people/
 [Evangelos Pafilis](/people/evangelospafilis/) 
 
 ## Current group members
--[Haris Zafeiropoulos](/people/hariszafeiropoulos)
--[Stelios Ninidakis](/people/steliosninidakis)
+- [Haris Zafeiropoulos](/people/hariszafeiropoulos)
+- [Stelios Ninidakis](/people/steliosninidakis)
