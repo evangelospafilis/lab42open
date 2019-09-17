@@ -1,7 +1,7 @@
 ---
 title: People
 layout: single
-permalink: people/
+permalink: /people/
 ---
 
 ## Group leader
