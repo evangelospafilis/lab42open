@@ -1,5 +1,5 @@
 main:
-  - title: "Home"
+  - title: "About"
     url: /
   - title: "People"
     url: /people/
@@ -9,5 +9,3 @@ main:
     url: /publications/
   - title: "Collaborators"
     url: /collaborators/
-  - title: "Contact"
-    url: /contact/
