@@ -5,14 +5,8 @@ permalink: /people/
 ---
 ## Group leader
 ![Portrait of EvangelosPafilis](people_evangelospafilis.jpg)  
-[Evangelos Pafilis](/people/evangelospafilis/)
+[Evangelos Pafilis](/people/evangelospafilis/) 
 
 ## Current group members
-Haris Zafeiropoulos (/people/hariszafeiropoulos)
-Stelios Ninidakis
-
-<!--[Dhouha Grissa](http://dgrissa.wixsite.com/dhouha-grissa)  
-    [Marc Legeay](/people/marclegeay/)  
-    [Marie Locard-Paulet](/people/marielocardpaulet/)
-    -->
-
+-[Haris Zafeiropoulos](/people/hariszafeiropoulos)
+-[Stelios Ninidakis](/people/steliosninidakis)
