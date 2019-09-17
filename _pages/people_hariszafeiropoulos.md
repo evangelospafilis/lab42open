@@ -1,7 +1,7 @@
 ---
 title: Haris Zafeiropoulos
 layout: single
-permalink: /people/hariszaf/
+permalink: /people/hariszafeiropoulos/
 ---
 
 <p align="left">
