@@ -1,5 +1,5 @@
 
-<!--# Welcome to Lab42 OPEN home page-->
+# Welcome to Lab42 OPEN home page
 
 ![Alt text](logo.png?raw=true "Title")
 
