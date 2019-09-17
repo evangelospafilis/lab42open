@@ -3,3 +3,11 @@ main:
     url: /
   - title: "People"
     url: /people/
+  - title: "Projects"
+    url: /projects/
+  - title: "Publications"
+    url: /publications/
+  - title: "Collaborators"
+    url: /collaborators/
+  - title: "Contact"
+    url: /contact/
