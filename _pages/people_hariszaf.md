@@ -15,7 +15,7 @@ I am a PhD student at IMBBC-HCMR working on ecological networks and microbial ec
 
 My interests mostly focus on inferring microbial interactions that would allow the building of ecological networks with respect to microbial communities. 
 
-I joined \<lab42\/\> OPEN on 2017 and it was during my MSc thesis when I implemented [PEMA](https://github.com/hariszaf/pema)
+I joined \<lab42/\> OPEN on 2017 and it was during my MSc thesis when I implemented [PEMA](https://github.com/hariszaf/pema)
 
 I am now a member of the PREGO team as well as of the ELIXIR-GR. 
 
