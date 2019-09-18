@@ -11,6 +11,6 @@ permalink: /people/evangelospafilis/
 
 ## Research interests
 
-My research focuses on biomedical text mining of large corpora.
+My research focuses on text mining of large corpora.
 
 ## Brief CV
