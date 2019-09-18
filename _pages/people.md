@@ -9,5 +9,8 @@ permalink: /people/
 [Evangelos Pafilis](evangelospafilis) 
 
 ## Current group members
+- Anastasia Gioti 
+- Antonis Potirakis 
+- Christina Pavloudi
 - [Haris Zafeiropoulos](hariszafeiropoulos)
 - [Stelios Ninidakis](steliosninidakis)
