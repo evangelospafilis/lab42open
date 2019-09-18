@@ -7,8 +7,8 @@ main:
     url: /projects/
   - title: "Publications"
     url: /publications/
-  - title: "Collaborators"
-    url: /collaborators/
+  - title: "Collaborations"
+    url: /collaborations/
 
 publications:
   - title: "Preprints"

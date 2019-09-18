@@ -32,16 +32,7 @@ Thesis supervisors:
 08/2010-07/2016: B.S. in Biology, National and Kapodistrian University of Athens, Greece
 
 
-
-
-## Publications 
-- PEMA: from the raw .fastq files of 16S rRNA and COI marker genes to the (M)OTU-table, a thorough metabarcoding analysis Haris Zafeiropoulos, Ha Quoc Viet, Katerina Vasileiadou, Antonis Potirakis, Christos Arvanitidis, Pantelis Topalis, Christina Pavloudi, Evangelos Pafilis bioRxiv 709113; doi: https://doi.org/10.1101/709113  (preprint)
-
-
-## Projects
-**PREGO:** Process, environment, organism (PREGO) is a systems-biology approach to elucidate ecosystem function at the microbial dimension. 
-
-**ELIXIR – GR:** [ELIXIR-GR](https://www.elixir-greece.org/) is the Greek National Node of the ESFRI European RI ELIXIR, a distributed e-Infrastructure aiming at the construction of a sustainable European infrastructure for biological information. 
+## Additional Projects
 
 **RECONNECT:** Interreg V-B "Balkan-Mediterranean 2014-2020" project (MIS: 5017160) - https://reconnect.hcmr.gr/ .RECONNECT aims to develop strategies for sustainable management of Marine Protected Areas (MPAs) and Natura 2000 sites.
 
