@@ -4,7 +4,6 @@ layout: single
 permalink: /people/savvas-paragkamian/
 ---
 
-<s.paragamian@gmail.com>
 
 ## Research interests
 
@@ -36,5 +35,8 @@ I am about to join the Lab in the fascinating project of linking the microbial p
     Thesis: [Menzerath – Altmann’ s law in human gene families at the gene - exon level and their evolutionary history](https://www.researchgate.net/publication/327779916_Menzerath_-_Altmann's_law_in_human_gene_families_at_the_gene_-_exon_level_and_their_evolutionary_history)
   
  
-## You can find me here
+## Contact
+
 [GitHub](https://github.com/savvas-paragkamian/)
+
+<s.paragamian@gmail.com>
