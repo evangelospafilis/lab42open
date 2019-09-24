@@ -13,5 +13,5 @@ permalink: /people/
 - Antonis Potirakis 
 - Christina Pavloudi
 - [Haris Zafeiropoulos](hariszafeiropoulos)
-- Savvas Paragkamian
+- [Savvas Paragkamian](savvas-paragkamian)
 - [Stelios Ninidakis](steliosninidakis)
