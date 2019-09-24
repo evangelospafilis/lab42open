@@ -10,7 +10,7 @@ permalink: /people/savvas-paragkamian/
 
 My research interests span complex system analysis in biological systems using network theory, statistical analysis and mathematical models. 
 
-I am about to join the Lab in the very fascinating project of linking the microbial processes to the ecosystem function.
+I am about to join the Lab in the fascinating project of linking the microbial processes to the ecosystem function.
 
 ## Brief CV
 
