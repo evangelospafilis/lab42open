@@ -7,7 +7,7 @@ sidebar:
 ---
 ## Preprints
 
-Zafeiropoulos, H., Viet, H.Q., Vasileiadou, K., Potirakis, A., Arvanitidis, C., Topalis, P., Pavloudi, C., Pafilis, E., **2019**. PEMA: from the raw .fastq files of 16S rRNA and COI marker genes to the (M)OTU-table, a thorough metabarcoding analysis. *bioRxiv preprint* 709113. [Abstract](https://doi.org/10.1101/709113) [Full text](https://www.biorxiv.org/content/biorxiv/early/2019/07/20/709113.full.pdf) [WWW](https://github.com/hariszaf/pema) <span class="__dimensions_badge_embed__" data-doi="10.1101/709113" data-style="small_rectangle"></span>
+Zafeiropoulos, H., Viet, H.Q., Vasileiadou, K., Potirakis, A., Arvanitidis, C., Topalis, P., Pavloudi, C., Pafilis, E., **2019**. PEMA: from the raw .fastq files of 16S rRNA and COI marker genes to the (M)OTU-table, a thorough metabarcoding analysis. *bioRxiv preprint* 709113. [Abstract](https://doi.org/10.1101/709113) [Full text](https://www.biorxiv.org/content/biorxiv/early/2019/07/20/709113.full.pdf) [WWW](https://github.com/hariszaf/pema) <span class="__dimensions_badge_embed__" data-doi="10.1101/709113" data-style="small_rectangle"></span> 
 
 Arvanitidis CD, Warwick RM, Somerfield PJ, Pavloudi C, Pafilis E, Oulas A, Chatzigeorgiou G, et al. **2018**. Research Infrastructures offer capacity to address scientific questions never attempted before: Are all taxa equal? *PeerJ Preprints* 6:e26819v2 [Abstract](https://doi.org/10.7287/peerj.preprints.26819v2) [Full text](https://doi.org/10.7287/peerj.preprints.26819v2) <span class="__dimensions_badge_embed__" data-doi="10.7287/peerj.preprints.26819v2" data-style="small_rectangle"></span>
 
