@@ -15,6 +15,8 @@ Arvanitidis CD, Warwick RM, Somerfield PJ, Pavloudi C, Pafilis E, Oulas A, Chatz
 
 ## Research articles
 
+Varsos C, Patkos T, Oulas A, Pavloudi C, Gougousis A, Ijaz U, Filiopoulou I, Pattakos N, Vanden Berghe E, Fernández-Guerra A, Faulwetter S, Chatzinikolaou E, Pafilis E, Bekiari C, Doerr M, Arvanitidis C **2016**. Optimized R functions for analysis of ecological community data using the R virtual laboratory (RvLab). *Biodiversity Data Journal* 4: e8357. [Abstract](https://doi.org/10.3897/BDJ.4.e8357) [Full text](https://bdj.pensoft.net/article/8357/download/pdf/) <span class="__dimensions_badge_embed__" data-doi="10.3897/BDJ.4.e8357" data-style="small_rectangle"></span>
+
 Sinclair L, Ijaz UZ, Jensen LJ, Coolen MJL, Gubry-Rangin C, Chroňáková A, Oulas A, Pavloudi C, Schnetzer J, Weimann A, Ijaz A, Eiler A, Quince C and Pafilis E **2016**. Seqenv: linking sequences to environments through text mining. *PeerJ*, **4**:e2690.  
 [Abstract](https://www.ncbi.nlm.nih.gov/pubmed/28028456) [Full text](https://doi.org/10.7717/peerj.2690) <span class="__dimensions_badge_embed__" data-doi="10.7717/peerj.2690" data-style="small_rectangle"></span>
 
