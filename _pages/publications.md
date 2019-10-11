@@ -7,8 +7,8 @@ sidebar:
 ---
 ## Preprints
 
-pema preprint <br>
-BLAH4 preprints <br>
+Zafeiropoulos, H., Viet, H.Q., Vasileiadou, K., Potirakis, A., Arvanitidis, C., Topalis, P., Pavloudi, C., Pafilis, E., 2019. PEMA: from the raw .fastq files of 16S rRNA and COI marker genes to the (M)OTU-table, a thorough metabarcoding analysis. bioRxiv preprint 709113. [Abstract](https://doi.org/10.1101/709113) [Full text](https://www.biorxiv.org/content/biorxiv/early/2019/07/20/709113.full.pdf) <span class="__dimensions_badge_embed__" data-doi="10.1101/709113" data-style="small_rectangle"></span>
+<!--BLAH4 preprints <br>-->
 
 ## Research articles
 
