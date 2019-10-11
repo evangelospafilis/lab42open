@@ -7,12 +7,15 @@ sidebar:
 ---
 ## Preprints
 
-Zafeiropoulos, H., Viet, H.Q., Vasileiadou, K., Potirakis, A., Arvanitidis, C., Topalis, P., Pavloudi, C., Pafilis, E., 2019. PEMA: from the raw .fastq files of 16S rRNA and COI marker genes to the (M)OTU-table, a thorough metabarcoding analysis. bioRxiv preprint 709113. [Abstract](https://doi.org/10.1101/709113) [Full text](https://www.biorxiv.org/content/biorxiv/early/2019/07/20/709113.full.pdf) <span class="__dimensions_badge_embed__" data-doi="10.1101/709113" data-style="small_rectangle"></span>
+Zafeiropoulos, H., Viet, H.Q., Vasileiadou, K., Potirakis, A., Arvanitidis, C., Topalis, P., Pavloudi, C., Pafilis, E., **2019**. PEMA: from the raw .fastq files of 16S rRNA and COI marker genes to the (M)OTU-table, a thorough metabarcoding analysis. *bioRxiv preprint* 709113. [Abstract](https://doi.org/10.1101/709113) [Full text](https://www.biorxiv.org/content/biorxiv/early/2019/07/20/709113.full.pdf) <span class="__dimensions_badge_embed__" data-doi="10.1101/709113" data-style="small_rectangle"></span>
+
+Arvanitidis CD, Warwick RM, Somerfield PJ, Pavloudi C, Pafilis E, Oulas A, Chatzigeorgiou G, et al. **2018**. Research Infrastructures offer capacity to address scientific questions never attempted before: Are all taxa equal? *PeerJ Preprints* 6:e26819v2 [Abstract](https://doi.org/10.7287/peerj.preprints.26819v2) [Full text](https://doi.org/10.7287/peerj.preprints.26819v2) <span class="__dimensions_badge_embed__" data-doi="10.7287/peerj.preprints.26819v2" data-style="small_rectangle"></span>
+
 <!--BLAH4 preprints <br>-->
 
 ## Research articles
 
-Sinclair L, Ijaz UZ, Jensen LJ, Coolen MJL, Gubry-Rangin C, Chroňáková A, Oulas A, Pavloudi C, Schnetzer J, Weimann A, Ijaz A, Eiler A, Quince C and Pafilis E (2016). Seqenv: linking sequences to environments through text mining. *PeerJ*, **4**:e2690.  
+Sinclair L, Ijaz UZ, Jensen LJ, Coolen MJL, Gubry-Rangin C, Chroňáková A, Oulas A, Pavloudi C, Schnetzer J, Weimann A, Ijaz A, Eiler A, Quince C and Pafilis E **2016**. Seqenv: linking sequences to environments through text mining. *PeerJ*, **4**:e2690.  
 [Abstract](https://www.ncbi.nlm.nih.gov/pubmed/28028456) [Full text](https://doi.org/10.7717/peerj.2690) <span class="__dimensions_badge_embed__" data-doi="10.7717/peerj.2690" data-style="small_rectangle"></span>
 
 Wang Q, Abdul SS, Almeida L, Ananiadou S, Balderas-Martínez YI, Batista-Navarro R, Campos D, Chilton L, Chou HJ, Contreras G, Cooper L, Dai HJ, Ferrell B, Fluck J, Gama-Castro S, George N, Gkoutos G, Irin AK, Jensen LJ, Jimenez S, Jue TR, Keseler I, Madan S, Matos S, McQuilton P, Milacic M, Mort M, Natarajan J, Pafilis E, Pereira E, Rao S, Rinaldi F, Rothfels K, Salgado D, Silva RM, Singh O, Stefancsik R, Su CH, Subramani S, Tadepally HD, Tsaprouni L, Vasilevsky N, Wang X, Chatr-Aryamontri A, Laulederkind SJ, Matis-Mitchell S, McEntyre J, Orchard S, Pundir S, Rodriguez-Esteban R, Van Auken K, Lu Z, Schaeffer M, Wu CH, Hirschman L and Arighi CN (2016). Overview of the interactive task in BioCreative V. *Database*, **2016**:baw119.  
