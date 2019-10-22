@@ -18,7 +18,7 @@ At the mean time I enjoy co-coordinating the Institute of Marine Biology Biotech
 
 <!--## Brief CV-->
 
-##Other profile links
+## Other profile links
 
-[Google Scholar](https://scholar.google.com/citations?user=Aik8EvoAAAAJ&hl=en)
-[Twitter](https://twitter.com/epafilis)
+* [Google Scholar](https://scholar.google.com/citations?user=Aik8EvoAAAAJ&hl=en)
+* [Twitter](https://twitter.com/epafilis)
