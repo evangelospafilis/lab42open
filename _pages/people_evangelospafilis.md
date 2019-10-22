@@ -28,6 +28,7 @@ At the mean time I enjoy co-coordinating the Institute of Marine Biology Biotech
 ## Awards and scientific challenges
 
 * [Biocreative V (2015): interactive annotation task](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-v/iat-task-biocurators/), top performance by the [EXTRACT](http://extract.hcmr.gr) metadata annotation system 
+* Encyclopedia of Life Rubenstein Fellowship (2013)
 * Elsevier grand challenge (2009): knowledge enhancement in the life sciences, as a member of the Reflect team 
 
 <!--## Workshop (co-) hosted
