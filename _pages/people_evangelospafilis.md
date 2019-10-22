@@ -25,26 +25,26 @@ At the mean time I enjoy co-coordinating the Institute of Marine Biology Biotech
 * MRes in Bioinfomatics (2003), University of Glasgow  
 * BSc in Biology (2002), University of Crete  
 
-<!--## Awards
+## Awards and scientific challenges
+
+* [Biocreative V (2015): interactive annotation task](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-v/iat-task-biocurators/), top performance by the [EXTRACT](http://extract.hcmr.gr) metadata annotation system 
+* Elsevier grand challenge (2009): knowledge enhancement in the life sciences, as a member of the Reflect team 
+
+<!--## Workshop (co-) hosted
 *
 *
 *
 * 
 -->
 
-<!--## Visiting researcher
-*
+
+<!--## Visiting researcher, hackathon/datathon participations
+* 
 *
 *
 * 
 -->
 
-<!--## Workshop host 
-*
-*
-*
-* 
--->
 
 
 ## Other profile links
