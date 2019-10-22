@@ -16,7 +16,36 @@ The aim is to [extract](http://extract.hcmr.gr) knowledge and propose innovative
 
 At the mean time I enjoy co-coordinating the Institute of Marine Biology Biotechnology and Aquaculture's [High Performance Computing](http://hpc.hcmr.gr) facility, organizing citizen-science [sampling and analysing soil samples around Crete](http://wiki.gensc.org/index.php?title=GSC_island_sampling_day), and [taking pictures](http://epafilis/info/photography). <br>
 
-<!--## Brief CV-->
+## Brief CV
+
+* Researcher C in Bioinformatics and Biodiversity informatics (2018-present)
+* Postdoctoral Researcher (2011), Hellenic Center for Marine Research, Institute of Marine Biology Biotechnology and Aquaculture
+* Postdoctoral Researcher (2009), Medical School, University of Crete
+* PhD in Bionformatics (2009), EMBL - University of Heidelberg
+* MRes in Bioinfomatics (2003), University of Glasgow  
+* BSc in Biology (2002), University of Crete  
+
+<!--## Awards
+*
+*
+*
+* 
+-->
+
+<!--## Visiting researcher
+*
+*
+*
+* 
+-->
+
+<!--## Workshop host 
+*
+*
+*
+* 
+-->
+
 
 ## Other profile links
 
