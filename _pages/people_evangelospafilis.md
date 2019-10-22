@@ -17,6 +17,8 @@ The aim is to [extract](http://extract.hcmr.gr) knowledge and propose innovative
 At the mean time I enjoy co-coordinating the Institute of Marine Biology Biotechnology and Aquaculture's [High Performance Computing](http://hpc.hcmr.gr) facility, organizing citizen-science [sampling and analysing soil samples around Crete](http://wiki.gensc.org/index.php?title=GSC_island_sampling_day), and [taking pictures](http://epafilis/info/photography). <br>
 
 <!--## Brief CV-->
+
 ##Other profile links
+
 [Google Scholar](https://scholar.google.com/citations?user=Aik8EvoAAAAJ&hl=en)
 [Twitter](https://twitter.com/epafilis)
