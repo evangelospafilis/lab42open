@@ -28,7 +28,7 @@ I joined \<lab42/\> OPEN in April, 2019 as an Operational Administrator in High 
 
 
 ## You can find me here
-[IMBBC HPC] (https://hpc.hcmr.gr)
+[IMBBC HPC](https://hpc.hcmr.gr)
 
 [GitHub](https://github.com/steninidak/)
 
