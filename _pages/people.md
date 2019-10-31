@@ -10,7 +10,7 @@ permalink: /people/
 
 ## Current group members
 - Anastasia Gioti 
-- Antonis Potirakis 
+- [Antonis Potirakis ](antonispotirakis)
 - Christina Pavloudi
 - [Haris Zafeiropoulos](hariszafeiropoulos)
 - [Savvas Paragkamian](savvas-paragkamian)
