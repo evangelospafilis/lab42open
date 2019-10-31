@@ -6,7 +6,6 @@ permalink: /people/evangelospafilis/
 
 <pafilis@hcmr.gr>
 
-
 ![Photo of Evangelos Pafilis](people_evangelospafilis.jpg)
 
 ## Research interests
@@ -32,6 +31,7 @@ At the mean time I enjoy co-coordinating the Institute of Marine Biology Biotech
 * Elsevier grand challenge (2009): knowledge enhancement in the life sciences, as a member of the Reflect team 
 
 <!--## Workshop (co-) hosted
+*
 *
 *
 *
