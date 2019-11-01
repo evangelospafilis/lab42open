@@ -11,7 +11,7 @@ permalink: /people/
 ## Current group members
 - Anastasia Gioti 
 - [Antonis Potirakis ](antonispotirakis)
-- [Christina Pavloudi] (christinapavloudi)
+- [Christina Pavloudi](christinapavloudi)
 - [Haris Zafeiropoulos](hariszafeiropoulos)
 - [Savvas Paragkamian](savvas-paragkamian)
 - [Stelios Ninidakis](steliosninidakis)
