@@ -11,7 +11,7 @@ permalink: /people/hariszafeiropoulos/
 [*haris-zaf@hcmr.gr*](haris-zaf@hcmr.gr)
 
 ## Short profile
-I am a PhD student at IMBBC-HCMR working on ecological networks and microbial ecology by exploring how techniques such as knowledge aggregation and data integration could serve these fields. 
+I am a PhD student at [IMBBC-HCMR](http://imbbc3.hcmr.gr/) working on ecological networks and microbial ecology by exploring how techniques such as knowledge aggregation and data integration could serve these fields. 
 
 My interests mostly focus on inferring microbial interactions that would allow the building of ecological networks with respect to microbial communities. 
 
