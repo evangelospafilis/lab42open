@@ -34,7 +34,9 @@ Thesis supervisors:
 
 ## Additional Projects
 
-**RECONNECT:** Interreg V-B "Balkan-Mediterranean 2014-2020" project (MIS: 5017160) - https://reconnect.hcmr.gr/ .RECONNECT aims to develop strategies for sustainable management of Marine Protected Areas (MPAs) and Natura 2000 sites.
+**ELIXIR-GR:** [ELIXIR-GR](https://www.elixir-greece.org/) is the Greek National Node of the [ESFRI European RI ELIXIR](https://elixir-europe.org/). Its goal is to bring together Europe’s laboratories and data centres to help coordinate the collection, quality control and storage of large amounts of biological data produced by life science experiments. ELIXIR-GR has recently secured funding from EU Structural and Investment Funds for supporting a number of selected Research Infrastructures of the Greek National Roadmap.
+
+**RECONNECT:** Interreg V-B "Balkan-Mediterranean 2014-2020" project (MIS: 5017160). [RECONNECT]( https://reconnect.hcmr.gr/) aims to develop strategies for sustainable management of Marine Protected Areas (MPAs) and Natura 2000 sites.
 
 **JERICO-NEXT:** a Horizon 2020 project. Among other objectives, [JERICO-NEXT](http://www.jerico-ri.eu/ )  aims to monitor changes in macrobenthic biodiversity so as to assess environmental disturbances 	(e.g. eutrophication, fishing, river input), potential controls and the pertinent functional 	consequences.
 
