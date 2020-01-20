@@ -43,4 +43,5 @@ Thesis supervisors:
 
 ## You can find me here
 [GitHub](https://github.com/hariszaf/)
+[*haris-zaf@hcmr.gr*](haris-zaf@hcmr.gr)
 
