@@ -9,14 +9,20 @@ permalink: /people/savvas-paragkamian/
 
 My research interests span complex system analysis in biological systems using network theory, statistical analysis and mathematical models. 
 
-I am about to join the Lab in the fascinating project of linking the microbial processes to the ecosystem function.
+I joined the Lab in December 2019 in the fascinating project [PREGO](https://evangelospafilis.github.io/prego_web_site/) which aims to link microbial processes to ecosystem function.
 
 ## Brief CV
+
+#### December 2019 - Present
+
+*Phd on Microbe Ecology and Informatics*
+Hellenic Center of Marine Research and University of Crete
+    Project: [PREGO](https://evangelospafilis.github.io/prego_web_site/) - Process Environment Organism
 
 #### August 2017 - 2019
   * Hellenic Institute of Speleological Research, Ethnikis Antistaseos 82, Irakleio (Greece)
   
-    Project: Conservation of the Cave Fauna of Greece and development of [Cave Fauna of Greece (CFG) Database](https://database.inspee.gr/)
+    Project: Conservation of the Cave Fauna of Greece and development of [Cave Fauna of Greece (CFG) Database](https://database.inspee.gr/). For the analysis of these date see [CFG Analysis](https://inspee-hisr.github.io/CFG_analysis)
 
 #### Nov 2018 - Jan 2019 
 
@@ -39,4 +45,4 @@ I am about to join the Lab in the fascinating project of linking the microbial p
 
 [GitHub](https://github.com/savvas-paragkamian/)
 
-<s.paragamian@gmail.com>
+<s.paragkamian@hcmr.gr>
