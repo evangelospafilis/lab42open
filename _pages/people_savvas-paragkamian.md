@@ -15,8 +15,8 @@ I joined the Lab in December 2019 in the fascinating project [PREGO](https://eva
 
 #### December 2019 - Present
 
-*Phd on Microbe Ecology and Informatics*
-Hellenic Center of Marine Research and University of Crete
+* Phd on Microbe Ecology and Informatics. Hellenic Center of Marine Research and University of Crete.
+  
     Project: [PREGO](https://evangelospafilis.github.io/prego_web_site/) - Process Environment Organism
 
 #### August 2017 - 2019
