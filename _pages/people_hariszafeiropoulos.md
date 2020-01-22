@@ -17,7 +17,7 @@ My interests mostly focus on inferring microbial interactions that would allow t
 
 I joined \<lab42/\> OPEN on 2017 and it was during my MSc thesis when I implemented [PEMA](https://github.com/hariszaf/pema).
 
-I am now a member of the [PREGO](https://evangelospafilis.github.io/prego_web_site/) team as well as of the ELIXIR-GR. 
+I am now a member of the [PREGO](https://evangelospafilis.github.io/prego_web_site/) team as well as of the [ELIXIR-GR](https://www.elixir-greece.org/). 
 
 
 ## Brief CV
