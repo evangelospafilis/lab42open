@@ -11,9 +11,10 @@ Zafeiropoulos, H., Viet, H.Q., Vasileiadou, K., Potirakis, A., Arvanitidis, C., 
 
 Arvanitidis CD, Warwick RM, Somerfield PJ, Pavloudi C, Pafilis E, Oulas A, Chatzigeorgiou G, et al. **2018**. Research Infrastructures offer capacity to address scientific questions never attempted before: Are all taxa equal? *PeerJ Preprints* 6:e26819v2 [Abstract](https://doi.org/10.7287/peerj.preprints.26819v2) [Full text](https://doi.org/10.7287/peerj.preprints.26819v2) <span class="__dimensions_badge_embed__" data-doi="10.7287/peerj.preprints.26819v2" data-style="small_rectangle"></span>
 
-<!--BLAH4 preprints <br>-->
-
 ## Research articles
+
+<!-- next: add PEMA upon publication -->
+<!-- next: add Plos Comp Bio Bics in Greece -->
 
 Varsos C, Patkos T, Oulas A, Pavloudi C, Gougousis A, Ijaz U, Filiopoulou I, Pattakos N, Vanden Berghe E, Fernández-Guerra A, Faulwetter S, Chatzinikolaou E, Pafilis E, Bekiari C, Doerr M, Arvanitidis C **2016**. Optimized R functions for analysis of ecological community data using the R virtual laboratory (RvLab). *Biodiversity Data Journal* 4: e8357. [Abstract](https://doi.org/10.3897/BDJ.4.e8357) [Full text](https://bdj.pensoft.net/article/8357/download/pdf/) [WWW](https://portal.lifewatchgreece.eu/) <span class="__dimensions_badge_embed__" data-doi="10.3897/BDJ.4.e8357" data-style="small_rectangle"></span>
 
@@ -40,6 +41,8 @@ Pafilis E, O'Donoghue SI, Jensen LJ, Horn H, Kuhn M, Brown NP and Schneider R (2
 
 ## Conference proceedings
 
+<!-- next: add GKot conference in 2019 summer -->
+
 Pafilis E, Bērziņš R and Jensen LJ (2017). EXTRACT 2.0: text-mining-assisted interactive annotation of biomedical named entities and ontology terms. *Proceedings of Bio-Ontologies 2017*.  
 [Full text](https://doi.org/10.1101/111088) [WWW](https://extract.jensenlab.org/) <span class="__dimensions_badge_embed__" data-doi="10.1101/111088" data-style="small_rectangle"></span>
 
@@ -51,13 +54,12 @@ Pafilis E, Buttigieg PL, Ferrell B, Pereira E, Schnetzer J, Arvanitidis C and Je
 
 Wang Q, Abdul SS, Almeida L, Ananiadou S, Balderas-Martnez YI, Batista-Navarro R, Campos D, Chilton L, Chou H-J, Contreras G, Cooper L, Dai H-J, Fluck J, Gama S, Gkoutos G, Irin AK, Jensen LJ, Jimenez S, Jue T, Keseler I, Madan S, Matos S, McQuilton P, Mort M, Natarajan J, Pafilis E, Pereira E, Rao S, Rinaldi F, Salgado D, Singh O, Stefancsik R, Su C-H, Subramani S, Tadepally HD, Tsaprouni L, Vasilevsky N, Wang X, Chatr-aryamontri A, Laulederkind S, Matis-Mitchell S, McEntyre J, Orchard S, Pundir S, Rodriguez-Esteban R, Van Auken K, Lu Z, Schaeffer M, Hirschman L and Arighi C (2015). Overview of the Interactive Task in BioCreative V. *Proceedings of BioCreative V*, 364-383.  
 
-## Reviews
+<!-- ## Reviews -->
 
-## Editorials
+<!-- ## Editorials -->
 
 ## Book chapters
 
-
-\* Joint first and/or joint corresponding authors.  
+Pafilis, E, Horn H, Brown NP. (2014) Automated Annotation of Scientific Documents: Increasing Access to Biological Knowledge. [Biological Knowledge Discovery Handbook: Preprocessing, Mining and Postprocessing of Biological Data](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118132734.html), Wiley:ISBN:[978-1-1181-3273-9](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118132734.html)
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
