@@ -5,7 +5,7 @@ permalink: /people/hariszafeiropoulos/
 ---
 
 <p align="left">
-  <img src="https://github.com/evangelospafilis/lab42open/blob/master/_pages/people_hariszafeiropoulos.jpg"  width="200" align="center" >
+  <img src="https://raw.githubusercontent.com/evangelospafilis/lab42open/master/_pages/people_hariszafeiropoulos.jpg"  width="200" align="center" >
 </p>
 
 [*haris-zaf@hcmr.gr*](haris-zaf@hcmr.gr)
