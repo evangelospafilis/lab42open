@@ -42,6 +42,6 @@ Thesis supervisors:
 
 
 ## You can find me here
-[GitHub](https://github.com/hariszaf/)
-[personal site](https://hariszaf.github.io/)
-[mail](haris-zaf@hcmr.gr)
+[GitHub](https://github.com/hariszaf/) <br />
+[personal site](https://hariszaf.github.io/)<br />
+[mail](haris-zaf@hcmr.gr)<br />
