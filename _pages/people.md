@@ -9,8 +9,8 @@ permalink: /people/
 [Evangelos Pafilis](evangelospafilis) 
 
 ## Current group members
-- Anastasia Gioti 
-- [Antonis Potirakis ](antonispotirakis)
+- [Anastasia Gioti](https://scholar.google.com/citations?user=eMsnakoAAAAJ&hl=en&oi=ao)
+- [Antonis Potirakis ](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=potant%40hcmr.gr+%CF%80%CE%BF%CF%84%CE%B7%CF%81%CE%B1%CE%BA%CE%B7%CF%82+%CE%B1%CE%BD%CF%84%CF%89%CE%BD%CE%B7%CF%82)
 - [Christina Pavloudi](christinapavloudi)
 - [Haris Zafeiropoulos](hariszafeiropoulos)
 - [Savvas Paragkamian](savvas-paragkamian)
