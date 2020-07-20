@@ -17,4 +17,4 @@ permalink: /people/
 - [Stelios Ninidakis](steliosninidakis)
 
 ## Visitors
-- [Miguel Desmarais](https://www.researchgate.net/profile/Miguel_Desmarais)
+- [Miguel Desmarais](https://www.researchgate.net/profile/Miguel_Desmarais) Duration: 13/7 - 10/8/2020
