@@ -15,3 +15,6 @@ permalink: /people/
 - [Haris Zafeiropoulos](hariszafeiropoulos)
 - [Savvas Paragkamian](savvas-paragkamian)
 - [Stelios Ninidakis](steliosninidakis)
+
+## Visitors
+- [Miguel Desmarais](https://www.researchgate.net/profile/Miguel_Desmarais)
