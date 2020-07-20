@@ -17,4 +17,4 @@ permalink: /people/
 - [Stelios Ninidakis](steliosninidakis)
 
 ## Visitors
-- [Miguel Desmarais](https://www.researchgate.net/profile/Miguel_Desmarais) Duration: 13/7 - 10/8/2020
+- [Miguel Desmarais](https://www.researchgate.net/profile/Miguel_Desmarais) July - August 2020, Int/nal Master of Science in Environmental Technology and Engineering (IMETE)(https://www.imete.eu/) funded
