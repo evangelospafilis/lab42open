@@ -4,7 +4,7 @@ layout: single
 permalink: /people/evangelospafilis/
 ---
 
-<pafilis@hcmr.gr> [ORCID:0000-0001-5079-0125](https://orcid.org/0000-0001-5079-0125)
+<pafilis@hcmr.gr> ([ORCiD:0000-0001-5079-0125](https://orcid.org/0000-0001-5079-0125))
 
 ![Photo of Evangelos Pafilis](people_evangelospafilis.jpg)
 
