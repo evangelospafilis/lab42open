@@ -14,6 +14,7 @@ permalink: /people/
 - [Christina Pavloudi](christinapavloudi)
 - [Haris Zafeiropoulos](hariszafeiropoulos)
 - [Lucia Fanini](http://www.reach-consultancy.at/CMS/index.php/home/expertise-and-team/169-lucia-fanini)
+- Rania Theologi
 - [Savvas Paragkamian](savvas-paragkamian)
 - [Stelios Ninidakis](steliosninidakis)
 
