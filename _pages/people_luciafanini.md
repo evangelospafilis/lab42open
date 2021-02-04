@@ -3,37 +3,41 @@ title: Lucia Fanini
 layout: single
 permalink: /people/luciafanini/
 ---
-Picture
-Research interests
+# Picture
 
+## Research interests
 My background is ethology and animal ecology, mostly applied to the study of sandy beaches, and hands-on experience worldwide. Am currently applying the knowledge gained to the extraction of relevant indicators of change both in the ecological and social templates related to sandy beaches. Needless to say, the issue of plastic litter became more and more integrated in my research. In this respect, I have been acting as scientific responsible for projects at the interface between science and society.
 I currently focus on the identification of proper analytical scales to address impacts on sandy shores, and on data communication to different audiences.
-Brief CVPermalink
-[link to publications]
-•	Postdoctoral researcher
-•	Self employed
-•	AMRI research associate
-•	Postdoctoral Researcher (2011-2013), Hellenic Center for Marine Research, Institute of Marine Biology Biotechnology and Aquaculture
-•	UY research associate
-•	Postdoctoral Researcher (2007), University of Florence, Italy
-•	PhD in Ethology and Animal Ecology), University of Florence, Italy
-•	MSc in Ecology (2002), University of Florence, Italy
-AwardsPermalink
-2019. Eklipse (Knowledge and Learning Mechanism on Biodiversity and Ecosystem Services)-EUH2020call for capacity building event. Selected and granted participation to “Plastics in our Ocean micro or macro challenge” organised by CIC-Nanogune (1-2/10/2019, San Sebastiàn, Spain).
-2018. Sponsorship (in kind) to the students’ awards by the brand TerraNation(beach gear retailers) for the ISBS2018
-2010. The Journal of Experimental Biology and the Company of Biologists LtD. Grant for the project “Turtle tracks on the sand: Straightness as a proxy of nesting site search patterns” in collaboration with Dr. E.A. Cuevas, Pronatura Yucatàn S.C., Mexico.
-2010. 2nd prize APRE (Agency for the Promotion of European Research, Italy) “Science Communication” for the French-Arabic bilingual book for children “Aventure au Royaume des Amphibiens et des Reptiles”.
-2008. Synthesys grant for the project “Investigating the links between environmental stability and sandhopper behaviour: the case-study of oued Ghrifa river mouth, Morocco”) in collaboration with Dr. Oliver Coleman, Museum fűr Naturkunde Berlin, Germany.
-Invitations Permalink
-•	2020 Invited presentation "Current status and challenges of coastal systems - a social-ecological perspective" Leuphana University Lüneburg, Faculty of Sustainability (DE).
-•	2019 Invited presentation “Ecology of sandy beaches – where we are, where do we want to go”, University of Rennes1, Beaulieu campus, France
-•	2018 and 26-27/03/2019. Invited to the workshop Monaco Ocean Week as BEMED 2018 laureate for the project “Networking against plastic pollution”.
-•	2018. Invited speaker to the event “Prevent Plastic in the Mediterranean Sea” and Annual General Meeting by Cyprus Sustainable Tourism Initiative (Limassol, Cyprus).
-•	2014. “Beach science talk” Scotland Island (NSW, Australia) organised by the Scotland Island Residents Association to present the experiment that was running on the island.
-•	2012. Invited expert to give a theoretical-practical course on “Estimating the Potential Impacts of Climate Change on Biodiversity” at the University of Alexandria, Egypt. The 3-days course was part of the activities of the Alexandria Research Centre for Adaptation, funded by the International Development Research Center (Canada).
-•	2009. Symposium organised by the Chamber of Commerce of Alexandria “Selected Environmental Issues in the Mediterranean Region”, Alexandria, Egypt, talk on environmental policies in the Mediterranean (mixed audience, including policy-makers, companies, academics).
-Other profile linksPermalink
-•	Researchgate 
+
+## Brief CV
+[link to publications]()
+* Postdoctoral researcher (2021)
+* Self employed (2017)
+* AMRI research associate (2016)
+* Postdoctoral Researcher (2011-2013), Hellenic Center for Marine Research, Institute of Marine Biology Biotechnology and Aquaculture
+* UY research associate (2015)
+* Postdoctoral Researcher (2007), University of Florence, Italy
+* PhD in Ethology and Animal Ecology), University of Florence, Italy
+* MSc in Ecology (2002), University of Florence, Italy
+
+## Awards
+* 2019. Eklipse (Knowledge and Learning Mechanism on Biodiversity and Ecosystem Services)-EUH2020call for capacity building event. Selected and granted participation to “Plastics in our Ocean micro or macro challenge” organised by CIC-Nanogune (1-2/10/2019, San Sebastiàn, Spain).
+* 2018. Sponsorship (in kind) to the students’ awards by the brand TerraNation(beach gear retailers) for the ISBS2018
+* 2010. The Journal of Experimental Biology and the Company of Biologists LtD. Grant for the project “Turtle tracks on the sand: Straightness as a proxy of nesting site search patterns” in collaboration with Dr. E.A. Cuevas, Pronatura Yucatàn S.C., Mexico.
+* 2010. 2nd prize APRE (Agency for the Promotion of European Research, Italy) “Science Communication” for the French-Arabic bilingual book for children “Aventure au Royaume des Amphibiens et des Reptiles”.
+* 2008. Synthesys grant for the project “Investigating the links between environmental stability and sandhopper behaviour: the case-study of oued Ghrifa river mouth, Morocco”) in collaboration with Dr. Oliver Coleman, Museum fűr Naturkunde Berlin, Germany.
+
+## Invitations
+* 2020 Invited presentation "Current status and challenges of coastal systems - a social-ecological perspective" Leuphana University Lüneburg, Faculty of Sustainability (DE).
+* 2019 Invited presentation “Ecology of sandy beaches – where we are, where do we want to go”, University of Rennes1, Beaulieu campus, France
+* 2018 and 26-27/03/2019. Invited to the workshop Monaco Ocean Week as BEMED 2018 laureate for the project “Networking against plastic pollution”.
+* 2018. Invited speaker to the event “Prevent Plastic in the Mediterranean Sea” and Annual General Meeting by Cyprus Sustainable Tourism Initiative (Limassol, Cyprus).
+* 2014. “Beach science talk” Scotland Island (NSW, Australia) organised by the Scotland Island Residents Association to present the experiment that was running on the island.
+* 2012. Invited expert to give a theoretical-practical course on “Estimating the Potential Impacts of Climate Change on Biodiversity” at the University of Alexandria, Egypt. The 3-days course was part of the activities of the Alexandria Research Centre for Adaptation, funded by the International Development Research Center (Canada).
+* 2009. Symposium organised by the Chamber of Commerce of Alexandria “Selected Environmental Issues in the Mediterranean Region”, Alexandria, Egypt, talk on environmental policies in the Mediterranean (mixed audience, including policy-makers, companies, academics).
+
+## Other profile links
+* [ResearchGate](https://www.researchgate.net/profile/Lucia_Fanini) 
 
 
 
