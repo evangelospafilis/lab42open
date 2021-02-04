@@ -3,7 +3,7 @@ title: Lucia Fanini
 layout: single
 permalink: /people/luciafanini/
 ---
-# Picture
+![Picture of Lucia Fanini](people_luciafanini.jpg)  
 
 ## Research interests
 My background is ethology and animal ecology, mostly applied to the study of sandy beaches, and hands-on experience worldwide. Am currently applying the knowledge gained to the extraction of relevant indicators of change both in the ecological and social templates related to sandy beaches. Needless to say, the issue of plastic litter became more and more integrated in my research. In this respect, I have been acting as scientific responsible for projects at the interface between science and society.
