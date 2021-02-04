@@ -1,4 +1,10 @@
-Publications_Lucia Fanini
+---
+title: Lucia Fanini
+layout: single
+permalink: /people/luciafanini/
+---
+
+# Publications Lucia Fanini
 
 ORCID ID 0000-0003-2301-2576
 
