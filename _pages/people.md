@@ -13,7 +13,7 @@ permalink: /people/
 - [Antonis Potirakis ](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=potant%40hcmr.gr+%CF%80%CE%BF%CF%84%CE%B7%CF%81%CE%B1%CE%BA%CE%B7%CF%82+%CE%B1%CE%BD%CF%84%CF%89%CE%BD%CE%B7%CF%82)
 - [Christina Pavloudi](christinapavloudi)
 - [Haris Zafeiropoulos](hariszafeiropoulos)
-- [Lucia Fanini](http://www.reach-consultancy.at/CMS/index.php/home/expertise-and-team/169-lucia-fanini)
+- [Lucia Fanini](luciafanini)
 - Rania Theologi
 - [Savvas Paragkamian](savvas-paragkamian)
 - [Stelios Ninidakis](steliosninidakis)
