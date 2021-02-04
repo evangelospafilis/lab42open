@@ -10,7 +10,7 @@ My background is ethology and animal ecology, mostly applied to the study of san
 I currently focus on the identification of proper analytical scales to address impacts on sandy shores, and on data communication to different audiences.
 
 ## Brief CV
-[link to publications]()
+[link to detailed publication listing](#detaild-publication-listing)
 * Postdoctoral researcher (2021)
 * Self employed (2017)
 * AMRI research associate (2016)
@@ -38,12 +38,6 @@ I currently focus on the identification of proper analytical scales to address i
 
 ## Other profile links
 * [ResearchGate](https://www.researchgate.net/profile/Lucia_Fanini) 
-
-
-
-
-
-
 
 # Detaild Publication Listing 
 
