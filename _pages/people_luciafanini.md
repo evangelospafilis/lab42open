@@ -6,7 +6,7 @@ permalink: /people/luciafanini/
 
 # Publications Lucia Fanini
 
-ORCID ID 0000-0003-2301-2576
+ORCID ID [0000-0003-2301-2576](https://orcid.org/0000-0003-2301-2576)
 
 I authored 40 papers in peer-reviewed journals, as leading –first or last- author in more than 50% of them, with and without previous supervisors. Scopus h-index = 14; h =12 excluding self-citations [Information retrieved December 2020]. Conference proceedings, reports, outreach articles and BeMed material (blog posts and activity templates) are excluded from the list of publications attached, though are available through ResearchGate. Overall, published papers include more than 100 co-authors and 70 different institutions, as well as different research disciplines. 
 
