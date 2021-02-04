@@ -9,9 +9,9 @@ permalink: /people/luciafanini/
 ORCID ID [0000-0003-2301-2576](https://orcid.org/0000-0003-2301-2576)
 
 I authored 40 papers in peer-reviewed journals, as leading –first or last- author in more than 50% of them, with and without previous supervisors. Scopus h-index = 14; h =12 excluding self-citations [Information retrieved December 2020]. Conference proceedings, reports, outreach articles and BeMed material (blog posts and activity templates) are excluded from the list of publications attached, though are available through ResearchGate. Overall, published papers include more than 100 co-authors and 70 different institutions, as well as different research disciplines. 
+- [40] Riechers M, Fanini L, Viana-Silva A, Apicella A, Espiña B, Batista Galván C, Blondel E, Ronchi F, Sardon H, García-Morales I M, Klun K, Stulgis M, Ruiz Rodríguez P A, Schmuck S A, Kefer S, Pereira T, Keroullé T, Ibarra-Gonzalez N, Microplastics in our ocean as a transdisciplinary challenge: Lessons from a co-learning workshop (in press), Marine Pollution Bulletin
+* [39] Fanini L, Piscart C, Pranzini E, Kerbiriou C, Le Viol I , Pétillon J. The extended concept of Littoral Active Zone considering soft sediment shores as social-ecological systems, and an application to Brittany (North-Western France) (in press, Estuarine Coastal and Shelf Science)
 
-[40] Riechers M, Fanini L, Viana-Silva A, Apicella A, Espiña B, Batista Galván C, Blondel E, Ronchi F, Sardon H, García-Morales I M, Klun K, Stulgis M, Ruiz Rodríguez P A, Schmuck S A, Kefer S, Pereira T, Keroullé T, Ibarra-Gonzalez N, Microplastics in our ocean as a transdisciplinary challenge: Lessons from a co-learning workshop (in press), Marine Pollution Bulletin
-[39] Fanini L, Piscart C, Pranzini E, Kerbiriou C, Le Viol I , Pétillon J. The extended concept of Littoral Active Zone considering soft sediment shores as social-ecological systems, and an application to Brittany (North-Western France) (in press, Estuarine Coastal and Shelf Science)
 [38] Costa LL, Zalmon IR, Fanini L, Defeo O (2020). Macroinvertebrates as indicators of human disturbances on sandy beaches: a review. Ecol Indic118, p.106764
 [37] Fanini L, Defeo O, Elliott M (2020). Advances in sandy beach research-Local and global perspectives. Estuar Coastal Shelf S, 234, p.106646.
 [36] Giangrande A, Gambino I, Tundo M, del Pasqua M, Licciano M, Fanini L, Pinna M (2020). Biology of Ophelia barquii (Anellida, Opheliidae) colonizing two different beaches along Salento peninsula (South Italy, Mediterranean sea), Mar. Biodivers. 50,3.
@@ -51,13 +51,12 @@ I authored 40 papers in peer-reviewed journals, as leading –first or last- aut
 [2] Fanini L, Martìn Cantarino C, Scapini F (2005). Relationships between the dynamics of two Talitrus saltator populations and the impacts of activities linked to tourism. Oceanologia 47: 93-112.
 [1] Scapini F, Chelazzi L, Colombini I, Fallaci M, Fanini L(2005). Orientation of sandhoppers at different points along a dynamic shoreline in southern Tuscany, Mar Biol 147: 919-926.
 
-Chapters in collective volumes and books
+## Chapters in collective volumes and books
 [1] Fanini L, 2010. Chapter 3 “Integration of gender dimension in the socioeconomic analysis”, in “About Coastal Water Bodies – Nature and Culture Conflicts in the Mediterranean”, Scapini F & Ciampi G editors, Springer
 [2] Fahd S, Bertelli L, Raihani Y, Fanini L, Oumoussa A, 2008. Bilingual (arabic-french) children book “Aventure au Royaume des Amphibiens et des Reptiles” [Adventure to the Kingdom of Amphibians and Reptiles], tipografia Bertelli ed., Florence.
 [3] Massolo A, Fanini L, Ammannati M, Bencini C, 2008. Didactic book for students of Psychology “Biologia” [Biology], series Progress test, EDISES.
 [4] Fanini L, 2007. I visitatori del Parco Regionale della Maremma [The visitors of the Maremma Regional Park], chapter of the touristic guide “Il Parco Regionale della Maremma: una guida per conoscere e capire” [The Maremma Regional Park: a guide to know and understand], Pacini ed.
 
-	Guest editing of Special Virtual Issues 
-
+## Guest editing of Special Virtual Issues 
 Marine Pollution Bulletin (SVI title "Marine Litter: experiences and perspectives towards the UN decade of Ocean Science for Sustainable Development 2021-2030" opening October 2020-ongoing).
 Estuarine Coastal and Shelf Science (SVI title "Sandy beaches: Linking knowledge to build integrated paradigms and face global change challenges" opened September 2018 - March 2020).
