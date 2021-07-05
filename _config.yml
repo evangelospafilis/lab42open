@@ -5,3 +5,11 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: "mmistakes/minimal-mistakes"
+
+# Google Analytics Tracker added, according to instruction in https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-201328882-1"
+    anonymize_ip: false # default
+    
