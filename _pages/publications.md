@@ -9,7 +9,7 @@ sidebar:
 
 Fotis A. Baltoumas, Sofia Zafeiropoulou, Evangelos Karatzas, Savvas Paragkamian, Foteini Thanati, Ioannis Iliopoulos, Aristides G. Eliopoulos, Reinhard Schneider, Lars Juhl Jensen, Evangelos Pafilis, Georgios A. Pavlopoulos.
 OnTheFly2.0: a text-mining web application for automated biomedical entity recognition, document annotation, network and functional enrichment analysis
-*bioRxiv preprint* 2021.05.14.444150; 
+*bioRxiv preprint* 2021.05.14.444150. 
 [Abstract](https://doi.org/10.1101/2021.05.14.444150)
 [Full Text](https://www.biorxiv.org/content/10.1101/2021.05.14.444150v1.full.pdf)
 [WWW](http://onthefly.hcmr.gr/)
@@ -29,58 +29,37 @@ Arvanitidis CD, Warwick RM, Somerfield PJ, Pavloudi C, Pafilis E, Oulas A, Chatz
 
 ## Research articles
 
-Zafeiropoulos, H.; Paragkamian, S.; Ninidakis, S.; Pavlopoulos, GA.; Jensen, LJ.; Pafilis, E. 
-PREGO: a literature and data-mining resource to associate microorganisms, biological processes, and environment types. 
-Microorganisms 10.2 (2022). [Full text](https://www.mdpi.com/2076-2607/10/2/293)
-[Abstract]()
-[Full Text]()
-[WWW]()
-<span class="__dimensions_badge_embed__" data-doi="10.xxxx/yyyyy" data-style="small_rectangle"></span>
-
+Zafeiropoulos, H.; Paragkamian, S.; Ninidakis, S.; Pavlopoulos, GA.; Jensen, LJ.; Pafilis, E. PREGO: a literature and data-mining resource to associate microorganisms, biological processes, and environment types. Microorganisms 10.2 (2022). 
+[Abstract](https://doi.org/10.3390/microorganisms10020293)
+[Full Text](https://doi.org/10.3390/microorganisms10020293)
+[WWW](https://prego.hcmr.gr)
+<span class="__dimensions_badge_embed__" data-doi="10.3390/microorganisms10020293" data-style="small_rectangle"></span>
 
 Lucia Fanini, Omar Defeo, Michael Elliott, Savvas Paragkamian, Maurizio Pinna, Vanessa-Sarah Salvo,
 Coupling beach ecology and macroplastics litter studies: Current trends and the way ahead,
-*Marine Pollution Bulletin* , **Volume 173, Part A**, 2021, 112951, ISSN 0025-326X, https://doi.org/10.1016/j.marpolbul.2021.112951.
-[Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0025326X21009851) <span class="__dimensions_badge_embed__" data-doi="10.1016/j.marpolbul.2021.112951" data-style="small_rectangle"></span>
-[Abstract]()
-[Full Text]()
-[WWW]()
-<span class="__dimensions_badge_embed__" data-doi="10.xxxx/yyyyy" data-style="small_rectangle"></span>
+*Marine Pollution Bulletin* , **Volume 173, Part A**, 2021, 112951, ISSN 0025-326X, 
+[Abstract](https://doi.org/10.1016/j.marpolbul.2021.112951)
+[Full Text](https://doi.org/10.1016/j.marpolbul.2021.112951)
+[WWW](https://doi.org/10.1016/j.marpolbul.2021.112951)
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.marpolbul.2021.112951" data-style="small_rectangle"></span>
 
+Fotis A Baltoumas, Sofia Zafeiropoulou, Evangelos Karatzas, Savvas Paragkamian, Foteini Thanati, Ioannis Iliopoulos, Aristides G Eliopoulos, Reinhard Schneider, Lars Juhl Jensen, Evangelos Pafilis, Georgios A Pavlopoulos, OnTheFly2.0: a text-mining web application for automated biomedical entity recognition, document annotation, network and functional enrichment analysis, *NAR Genomics and Bioinformatics*, **Volume 3, Issue 4**, December 2021, lqab090.
+[Abstract](https://doi.org/10.1093/nargab/lqab090)
+[Full Text](https://doi.org/10.1093/nargab/lqab090)
+[WWW](http://onthefly.hcmr.gr/)
+<span class="__dimensions_badge_embed__" data-doi="10.1093/nargab/lqab090" data-style="small_rectangle"></span>
 
+Haris Zafeiropoulos, Anastasia Gioti, Stelios Ninidakis, Antonis Potirakis, Savvas Paragkamian, Nelina Angelova, Aglaia Antoniou, Theodoros Danis, Eliza Kaitetzidou, Panagiotis Kasapidis, Jon Bent Kristoffersen, Vasileios Papadogiannis, Christina Pavloudi, Quoc Viet Ha, Jacques Lagnel, Nikos Pattakos, Giorgos Perantinos, Dimitris Sidirokastritis, Panagiotis Vavilis, Georgios Kotoulas, Tereza Manousaki, Elena Sarropoulou, Costas S Tsigenopoulos, Christos Arvanitidis, Antonios Magoulas, Evangelos Pafilis, 0s and 1s in marine molecular research: a regional HPC perspective, *GigaScience*, **Volume 10, Issue 8**, August 2021, giab053.
+[Abstract](https://doi.org/10.1093/gigascience/giab053)
+[Full Text](https://doi.org/10.1093/gigascience/giab053)
+[WWW](https://hpc.hcmr.gr)
+<span class="__dimensions_badge_embed__" data-doi="10.1093/gigascience/giab053" data-style="small_rectangle"></span>
 
-
-
-Fotis A Baltoumas, Sofia Zafeiropoulou, Evangelos Karatzas, Savvas Paragkamian, Foteini Thanati, Ioannis Iliopoulos, Aristides G Eliopoulos, Reinhard Schneider, Lars Juhl Jensen, Evangelos Pafilis, Georgios A Pavlopoulos, OnTheFly2.0: a text-mining web application for automated biomedical entity recognition, document annotation, network and functional enrichment analysis, *NAR Genomics and Bioinformatics*, **Volume 3, Issue 4**, December 2021, lqab090, https://doi.org/10.1093/nargab/lqab090
-[Full text](https://academic.oup.com/nargab/article/3/4/lqab090/6382333) <span class="__dimensions_badge_embed__" data-doi="10.1093/nargab/lqab090" data-style="small_rectangle"></span>
-[Abstract]()
-[Full Text]()
-[WWW]()
-<span class="__dimensions_badge_embed__" data-doi="10.xxxx/yyyyy" data-style="small_rectangle"></span>
-
-
-
-
-Haris Zafeiropoulos, Anastasia Gioti, Stelios Ninidakis, Antonis Potirakis, Savvas Paragkamian, Nelina Angelova, Aglaia Antoniou, Theodoros Danis, Eliza Kaitetzidou, Panagiotis Kasapidis, Jon Bent Kristoffersen, Vasileios Papadogiannis, Christina Pavloudi, Quoc Viet Ha, Jacques Lagnel, Nikos Pattakos, Giorgos Perantinos, Dimitris Sidirokastritis, Panagiotis Vavilis, Georgios Kotoulas, Tereza Manousaki, Elena Sarropoulou, Costas S Tsigenopoulos, Christos Arvanitidis, Antonios Magoulas, Evangelos Pafilis, 0s and 1s in marine molecular research: a regional HPC perspective, *GigaScience*, **Volume 10, Issue 8**, August 2021, giab053, https://doi.org/10.1093/gigascience/giab053
-[Full text](https://academic.oup.com/gigascience/article/10/8/giab053/6353916) <span class="__dimensions_badge_embed__" data-doi="10.1093/gigascience/giab053" data-style="small_rectangle"></span>
-[Abstract]()
-[Full Text]()
-[WWW]()
-<span class="__dimensions_badge_embed__" data-doi="10.xxxx/yyyyy" data-style="small_rectangle"></span>
-
-
-
-
-Vangay, P.; Burgin, J.; Johnston, A.; Beck, K.L.; Berrios, D.C.; Blumberg, K.; Canon, S.; Chain, P.; Chandonia, J.-M.; Christianson, D.; Pafilis, E.; et al. Microbiome Metadata Standards: Report of the National Microbiome Data Collaborative’s Workshop and Follow-On Activities. **mSystems** 2021, **6**, e01194-20, doi:10.1128/mSystems.01194-20.
-[Full text](https://journals.asm.org/doi/full/10.1128/mSystems.01194-20) <span class="__dimensions_badge_embed__" data-doi="10.1128/mSystems.01194-20" data-style="small_rectangle"></span>
-[Abstract]()
-[Full Text]()
-[WWW]()
-<span class="__dimensions_badge_embed__" data-doi="10.xxxx/yyyyy" data-style="small_rectangle"></span>
-
-
-
-
+Vangay, P.; Burgin, J.; Johnston, A.; Beck, K.L.; Berrios, D.C.; Blumberg, K.; Canon, S.; Chain, P.; Chandonia, J.-M.; Christianson, D.; Pafilis, E.; et al. Microbiome Metadata Standards: Report of the National Microbiome Data Collaborative’s Workshop and Follow-On Activities. **mSystems** 2021, **6**, e01194-20.
+[Abstract](https://doi.org/10.1128/mSystems.01194-20)
+[Full Text](https://doi.org/10.1128/mSystems.01194-20)
+[WWW](https://microbiomedata.org/)
+<span class="__dimensions_badge_embed__" data-doi="10.1128/mSystems.01194-20" data-style="small_rectangle"></span>
 
 Zafeiropoulos H, Viet HQ, Vasileiadou K, Potirakis A, Arvanitidis C, Topalis P, Pavloudi C, Pafilis E **2020**. PEMA: a flexible Pipeline for Environmental DNA Metabarcoding Analysis of the 16S/18S ribosomal RNA, ITS, and COI marker genes. *GigaScience* 2020 **9:3**:giaa022.
 [Abstract](https://www.ncbi.nlm.nih.gov/pubmed/32161947) [Full text](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giaa022/5803335) <span class="__dimensions_badge_embed__" data-doi="10.1093/gigascience/giaa022" data-style="small_rectangle"></span>
