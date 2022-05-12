@@ -22,7 +22,7 @@ Haris Zafeiropoulos, Anastasia Gioti, Stelios Ninidakis, Antonis Potirakis, Savv
 <span class="__dimensions_badge_embed__" data-doi="10.5281/zenodo.4665308" data-style="small_rectangle"></span>
 
 Zafeiropoulos H, Viet HQ, Vasileiadou K, Potirakis A, Arvanitidis C, Topalis P, Pavloudi C, Pafilis E, **2019**. PEMA: from the raw .fastq files of 16S rRNA and COI marker genes to the (M)OTU-table, a thorough metabarcoding analysis. *bioRxiv preprint* 709113.
-[Abstract](https://doi.org/10.1101/709113) [Full text](https://www.biorxiv.org/content/biorxiv/early/2019/07/20/709113.full.pdf) [WWW](https://github.com/hariszaf/pema) <span class="__dimensions_badge_embed__" data-doi="10.1101/709113" data-style="small_rectangle"></span> 
+[Abstract](https://doi.org/10.1101/709113) [Full text](https://www.biorxiv.org/content/biorxiv/early/2019/07/20/709113.full.pdf) [WWW](http://pema.hcmr.gr/) <span class="__dimensions_badge_embed__" data-doi="10.1101/709113" data-style="small_rectangle"></span> 
 
 Arvanitidis CD, Warwick RM, Somerfield PJ, Pavloudi C, Pafilis E, Oulas A, Chatzigeorgiou G, et al. **2018**. Research Infrastructures offer capacity to address scientific questions never attempted before: Are all taxa equal? *PeerJ Preprints* 6:e26819v2
 [Abstract](https://doi.org/10.7287/peerj.preprints.26819v2) [Full text](https://doi.org/10.7287/peerj.preprints.26819v2) <span class="__dimensions_badge_embed__" data-doi="10.7287/peerj.preprints.26819v2" data-style="small_rectangle"></span>
@@ -62,7 +62,7 @@ Vangay, P.; Burgin, J.; Johnston, A.; Beck, K.L.; Berrios, D.C.; Blumberg, K.; C
 <span class="__dimensions_badge_embed__" data-doi="10.1128/mSystems.01194-20" data-style="small_rectangle"></span>
 
 Zafeiropoulos H, Viet HQ, Vasileiadou K, Potirakis A, Arvanitidis C, Topalis P, Pavloudi C, Pafilis E **2020**. PEMA: a flexible Pipeline for Environmental DNA Metabarcoding Analysis of the 16S/18S ribosomal RNA, ITS, and COI marker genes. *GigaScience* 2020 **9:3**:giaa022.
-[Abstract](https://www.ncbi.nlm.nih.gov/pubmed/32161947) [Full text](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giaa022/5803335) <span class="__dimensions_badge_embed__" data-doi="10.1093/gigascience/giaa022" data-style="small_rectangle"></span>
+[Abstract](https://www.ncbi.nlm.nih.gov/pubmed/32161947) [Full text](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giaa022/5803335) [WWW](http://pema.hcmr.gr/) <span class="__dimensions_badge_embed__" data-doi="10.1093/gigascience/giaa022" data-style="small_rectangle"></span>
 
 Chasapi A, Aivaliotis M, Angelis L, Chanalaris A, Iliopoulos I, Kappas I, Karapiperis C, Kyrpides NC, Pafilis E, Panteris E, Topalis P, Tsiamis G, Vizirianakis IS, Vlassi M, Promponas VJ, Ouzounis CA **2019** Establishment of computational biology in Greece and Cyprus: Past, present, and future. *PLoS Comput Biol.*, **15(12)**:e1007532.
 [Abstract](https://www.ncbi.nlm.nih.gov/pubmed/31856214) [Full text](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007532) <span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1007532" data-style="small_rectangle"></span>
