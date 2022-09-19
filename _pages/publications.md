@@ -8,8 +8,7 @@ sidebar:
 
 ## Research articles
 
-Paragkamian, S., Sarafidou, G., Mavraki, D., Pavloudi, C., Beja, J., Eliezer, M., Lipizer, M., Boicenco, L., Vandepitte, L., Perez-Perez, R., Zafeiropoulos, H., Arvanitidis, C., Pafilis, E., Gerovasileiou, V., 2022. **Automating the Curation Process of Historical Literature on Marine Biodiversity Using Text Mining: The DECO Workflow**. Frontiers in Marine Science, 9.  
-[Abstract](https://doi.org/10.3389/fmars.2022.940844)
+Paragkamian, S., Sarafidou, G., Mavraki, D., Pavloudi, C., Beja, J., Eliezer, M., Lipizer, M., Boicenco, L., Vandepitte, L., Perez-Perez, R., Zafeiropoulos, H., Arvanitidis, C., Pafilis, E., Gerovasileiou, V., 2022. **Automating the Curation Process of Historical Literature on Marine Biodiversity Using Text Mining: The DECO Workflow**. Frontiers in Marine Science, 9.  [Abstract](https://doi.org/10.3389/fmars.2022.940844) 
 [Full Text](https://doi.org/10.3389/fmars.2022.940844)
 [WWW](https://github.com/lab42open-team/deco)
 <span class="__dimensions_badge_embed__" data-doi="10.3389/fmars.2022.940844" data-style="small_rectangle"></span>
