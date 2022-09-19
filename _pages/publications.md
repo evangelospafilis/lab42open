@@ -5,27 +5,6 @@ permalink: /publications/
 sidebar:
   nav: "publications"
 ---
-## Preprints
-
-Fotis A. Baltoumas, Sofia Zafeiropoulou, Evangelos Karatzas, Savvas Paragkamian, Foteini Thanati, Ioannis Iliopoulos, Aristides G. Eliopoulos, Reinhard Schneider, Lars Juhl Jensen, Evangelos Pafilis, Georgios A. Pavlopoulos.
-OnTheFly2.0: a text-mining web application for automated biomedical entity recognition, document annotation, network and functional enrichment analysis
-*bioRxiv preprint* 2021.05.14.444150. 
-[Abstract](https://doi.org/10.1101/2021.05.14.444150)
-[Full Text](https://www.biorxiv.org/content/10.1101/2021.05.14.444150v1.full.pdf)
-[WWW](http://onthefly.hcmr.gr/)
-<span class="__dimensions_badge_embed__" data-doi="10.1101/2021.05.14.444150" data-style="small_rectangle"></span>
-
-Haris Zafeiropoulos, Anastasia Gioti, Stelios Ninidakis, Antonis Potirakis, Savvas Paragkamian, Nelina Angelova, Aglaia Antoniou, Theodoros Danis, Eliza Kaitetzidou, Panagiotis Kasapidis, Jon Bent Kristoffersen, Vasileios Papadogiannis, Christina Pavloudi, Quoc Viet Ha, Jacques Lagnel, Nikos Pattakos, Giorgos Perantinos, Dimitris Sidirokastritis, Panagiotis Vavilis, Georgios Kotoulas, Tereza Manousaki, Elena Sarropoulou, Costas S Tsigenopoulos, Christos Arvanitidis, Antonios Magoulas and Evangelos Pafilis. (2021). The IMBBC HPC facility: history, configuration, usage statistics and related activities (1.0.0). *Zenodo preprint* 4665308. 
-[Abstract](https://doi.org/10.5281/zenodo.4665308)
-[Full Text](https://zenodo.org/record/4665308/files/hpc_data_preprint.pdf)
-[WWW](https://hpc.hcmr.gr)
-<span class="__dimensions_badge_embed__" data-doi="10.5281/zenodo.4665308" data-style="small_rectangle"></span>
-
-Zafeiropoulos H, Viet HQ, Vasileiadou K, Potirakis A, Arvanitidis C, Topalis P, Pavloudi C, Pafilis E, **2019**. PEMA: from the raw .fastq files of 16S rRNA and COI marker genes to the (M)OTU-table, a thorough metabarcoding analysis. *bioRxiv preprint* 709113.
-[Abstract](https://doi.org/10.1101/709113) [Full text](https://www.biorxiv.org/content/biorxiv/early/2019/07/20/709113.full.pdf) [WWW](http://pema.hcmr.gr/) <span class="__dimensions_badge_embed__" data-doi="10.1101/709113" data-style="small_rectangle"></span> 
-
-Arvanitidis CD, Warwick RM, Somerfield PJ, Pavloudi C, Pafilis E, Oulas A, Chatzigeorgiou G, et al. **2018**. Research Infrastructures offer capacity to address scientific questions never attempted before: Are all taxa equal? *PeerJ Preprints* 6:e26819v2
-[Abstract](https://doi.org/10.7287/peerj.preprints.26819v2) [Full text](https://doi.org/10.7287/peerj.preprints.26819v2) <span class="__dimensions_badge_embed__" data-doi="10.7287/peerj.preprints.26819v2" data-style="small_rectangle"></span>
 
 ## Research articles
 
@@ -89,6 +68,28 @@ O’Donoghue SI, Horn H, Pafilis E, Haag S, Kuhn M, Satagopam VP, Schneider R an
 
 Pafilis E, O'Donoghue SI, Jensen LJ, Horn H, Kuhn M, Brown NP and Schneider R (2009). Reflect: augmented browsing for the life scientist. *Nature Biotechnology*, **27**:508-510.  
 [Abstract](https://www.ncbi.nlm.nih.gov/pubmed/19513049) [Full text](https://doi.org/10.1038/nbt0609-508) [WWW](http://reflect.ws) <span class="__dimensions_badge_embed__" data-doi="10.1038/nbt0609-508" data-style="small_rectangle"></span>
+
+## Preprints
+
+Fotis A. Baltoumas, Sofia Zafeiropoulou, Evangelos Karatzas, Savvas Paragkamian, Foteini Thanati, Ioannis Iliopoulos, Aristides G. Eliopoulos, Reinhard Schneider, Lars Juhl Jensen, Evangelos Pafilis, Georgios A. Pavlopoulos.
+OnTheFly2.0: a text-mining web application for automated biomedical entity recognition, document annotation, network and functional enrichment analysis
+*bioRxiv preprint* 2021.05.14.444150. 
+[Abstract](https://doi.org/10.1101/2021.05.14.444150)
+[Full Text](https://www.biorxiv.org/content/10.1101/2021.05.14.444150v1.full.pdf)
+[WWW](http://onthefly.hcmr.gr/)
+<span class="__dimensions_badge_embed__" data-doi="10.1101/2021.05.14.444150" data-style="small_rectangle"></span>
+
+Haris Zafeiropoulos, Anastasia Gioti, Stelios Ninidakis, Antonis Potirakis, Savvas Paragkamian, Nelina Angelova, Aglaia Antoniou, Theodoros Danis, Eliza Kaitetzidou, Panagiotis Kasapidis, Jon Bent Kristoffersen, Vasileios Papadogiannis, Christina Pavloudi, Quoc Viet Ha, Jacques Lagnel, Nikos Pattakos, Giorgos Perantinos, Dimitris Sidirokastritis, Panagiotis Vavilis, Georgios Kotoulas, Tereza Manousaki, Elena Sarropoulou, Costas S Tsigenopoulos, Christos Arvanitidis, Antonios Magoulas and Evangelos Pafilis. (2021). The IMBBC HPC facility: history, configuration, usage statistics and related activities (1.0.0). *Zenodo preprint* 4665308. 
+[Abstract](https://doi.org/10.5281/zenodo.4665308)
+[Full Text](https://zenodo.org/record/4665308/files/hpc_data_preprint.pdf)
+[WWW](https://hpc.hcmr.gr)
+<span class="__dimensions_badge_embed__" data-doi="10.5281/zenodo.4665308" data-style="small_rectangle"></span>
+
+Zafeiropoulos H, Viet HQ, Vasileiadou K, Potirakis A, Arvanitidis C, Topalis P, Pavloudi C, Pafilis E, **2019**. PEMA: from the raw .fastq files of 16S rRNA and COI marker genes to the (M)OTU-table, a thorough metabarcoding analysis. *bioRxiv preprint* 709113.
+[Abstract](https://doi.org/10.1101/709113) [Full text](https://www.biorxiv.org/content/biorxiv/early/2019/07/20/709113.full.pdf) [WWW](http://pema.hcmr.gr/) <span class="__dimensions_badge_embed__" data-doi="10.1101/709113" data-style="small_rectangle"></span> 
+
+Arvanitidis CD, Warwick RM, Somerfield PJ, Pavloudi C, Pafilis E, Oulas A, Chatzigeorgiou G, et al. **2018**. Research Infrastructures offer capacity to address scientific questions never attempted before: Are all taxa equal? *PeerJ Preprints* 6:e26819v2
+[Abstract](https://doi.org/10.7287/peerj.preprints.26819v2) [Full text](https://doi.org/10.7287/peerj.preprints.26819v2) <span class="__dimensions_badge_embed__" data-doi="10.7287/peerj.preprints.26819v2" data-style="small_rectangle"></span>
 
 ## Conference proceedings
 
