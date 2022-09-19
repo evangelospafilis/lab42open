@@ -8,6 +8,12 @@ sidebar:
 
 ## Research articles
 
+Paragkamian, S., Sarafidou, G., Mavraki, D., Pavloudi, C., Beja, J., Eliezer, M., Lipizer, M., Boicenco, L., Vandepitte, L., Perez-Perez, R., Zafeiropoulos, H., Arvanitidis, C., Pafilis, E., Gerovasileiou, V., 2022. *Automating the Curation Process of Historical Literature on Marine Biodiversity Using Text Mining: The DECO Workflow*. Frontiers in Marine Science, 9.  
+[Abstract](https://doi.org/10.3389/fmars.2022.940844)
+[Full Text](https://doi.org/10.3389/fmars.2022.940844)
+[WWW](https://github.com/lab42open-team/deco)
+<span class="__dimensions_badge_embed__" data-doi="10.3389/fmars.2022.940844" data-style="small_rectangle"></span>
+
 Zafeiropoulos, H.; Paragkamian, S.; Ninidakis, S.; Pavlopoulos, GA.; Jensen, LJ.; Pafilis, E. PREGO: a literature and data-mining resource to associate microorganisms, biological processes, and environment types. Microorganisms 10.2 (2022). 
 [Abstract](https://doi.org/10.3390/microorganisms10020293)
 [Full Text](https://doi.org/10.3390/microorganisms10020293)
