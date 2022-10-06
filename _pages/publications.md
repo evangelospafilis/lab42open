@@ -76,7 +76,14 @@ Pafilis E, O'Donoghue SI, Jensen LJ, Horn H, Kuhn M, Brown NP and Schneider R (2
 
 ## Preprints
 
-Fotis A. Baltoumas, Sofia Zafeiropoulou, Evangelos Karatzas, Savvas Paragkamian, Foteini Thanati, Ioannis Iliopoulos, Aristides G. Eliopoulos, Reinhard Schneider, Lars Juhl Jensen, Evangelos Pafilis, Georgios A. Pavlopoulos.
+Kokoli, M., Karatzas, E., Baltoumas, F.A., Schneider, R., Pafilis, E., Paragkamian, S., Doncheva, N.T., Jensen, L.J., Pavlopoulos, G., *2022*. **Arena3Dweb: Interactive 3D visualization of multilayered networks supporting multiple directional information channels, clustering analysis and application integration**. 
+*bioRxiv preprint* 2022.10.01.510435
+[Abstract](https://doi.org/10.1101/2022.10.01.510435)
+[Full Text](https://www.biorxiv.org/content/10.1101/2022.10.01.510435v2.full.pdf)
+[WWW](http://arena3d.org)
+<span class="__dimensions_badge_embed__" data-doi="10.1101/2022.10.01.510435" data-style="small_rectangle"></span>
+
+Fotis A. Baltoumas, Sofia Zafeiropoulou, Evangelos Karatzas, Savvas Paragkamian, Foteini Thanati, Ioannis Iliopoulos, Aristides G. Eliopoulos, Reinhard Schneider, Lars Juhl Jensen, Evangelos Pafilis, Georgios A. Pavlopoulos. *2021*
 **OnTheFly2.0: a text-mining web application for automated biomedical entity recognition, document annotation, network and functional enrichment analysis**
 *bioRxiv preprint* 2021.05.14.444150. 
 [Abstract](https://doi.org/10.1101/2021.05.14.444150)
@@ -84,7 +91,7 @@ Fotis A. Baltoumas, Sofia Zafeiropoulou, Evangelos Karatzas, Savvas Paragkamian,
 [WWW](http://onthefly.hcmr.gr/)
 <span class="__dimensions_badge_embed__" data-doi="10.1101/2021.05.14.444150" data-style="small_rectangle"></span>
 
-Haris Zafeiropoulos, Anastasia Gioti, Stelios Ninidakis, Antonis Potirakis, Savvas Paragkamian, Nelina Angelova, Aglaia Antoniou, Theodoros Danis, Eliza Kaitetzidou, Panagiotis Kasapidis, Jon Bent Kristoffersen, Vasileios Papadogiannis, Christina Pavloudi, Quoc Viet Ha, Jacques Lagnel, Nikos Pattakos, Giorgos Perantinos, Dimitris Sidirokastritis, Panagiotis Vavilis, Georgios Kotoulas, Tereza Manousaki, Elena Sarropoulou, Costas S Tsigenopoulos, Christos Arvanitidis, Antonios Magoulas and Evangelos Pafilis. (2021). **The IMBBC HPC facility: history, configuration, usage statistics and related activities (1.0.0)**. *Zenodo preprint* 4665308. 
+Haris Zafeiropoulos, Anastasia Gioti, Stelios Ninidakis, Antonis Potirakis, Savvas Paragkamian, Nelina Angelova, Aglaia Antoniou, Theodoros Danis, Eliza Kaitetzidou, Panagiotis Kasapidis, Jon Bent Kristoffersen, Vasileios Papadogiannis, Christina Pavloudi, Quoc Viet Ha, Jacques Lagnel, Nikos Pattakos, Giorgos Perantinos, Dimitris Sidirokastritis, Panagiotis Vavilis, Georgios Kotoulas, Tereza Manousaki, Elena Sarropoulou, Costas S Tsigenopoulos, Christos Arvanitidis, Antonios Magoulas and Evangelos Pafilis. *2021*. **The IMBBC HPC facility: history, configuration, usage statistics and related activities (1.0.0)**. *Zenodo preprint* 4665308. 
 [Abstract](https://doi.org/10.5281/zenodo.4665308)
 [Full Text](https://zenodo.org/record/4665308/files/hpc_data_preprint.pdf)
 [WWW](https://hpc.hcmr.gr)
