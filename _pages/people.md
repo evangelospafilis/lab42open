@@ -9,7 +9,7 @@ permalink: /people/
 [Evangelos Pafilis](evangelospafilis) 
 
 ## Current group members
-- [Antonis Potirakis ](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=potant%40hcmr.gr+%CF%80%CE%BF%CF%84%CE%B7%CF%81%CE%B1%CE%BA%CE%B7%CF%82+%CE%B1%CE%BD%CF%84%CF%89%CE%BD%CE%B7%CF%82)
+- [Antonis Potirakis](https://imbbc.hcmr.gr/user/potant/)
 - [Savvas Paragkamian](savvas-paragkamian)
 - [Stelios Ninidakis](steliosninidakis)
 
