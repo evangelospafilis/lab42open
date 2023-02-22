@@ -75,6 +75,11 @@ Pafilis E, O'Donoghue SI, Jensen LJ, Horn H, Kuhn M, Brown NP and Schneider R (2
 [Abstract](https://www.ncbi.nlm.nih.gov/pubmed/19513049) [Full text](https://doi.org/10.1038/nbt0609-508) [WWW](http://reflect.ws) <span class="__dimensions_badge_embed__" data-doi="10.1038/nbt0609-508" data-style="small_rectangle"></span>
 
 ## Preprints
+Luoma, J., Nastou, K.C., Ohta, T., Toivonen, H., Pafilis, E., Jensen, L.J., Pyysalo, S., *2023*. **S1000: A better taxonomic name corpus for biomedical information extraction**. 
+*bioRxiv preprint* 2023.02.20.528934
+[Abstract](https://doi.org/10.1101/2023.02.20.528934)
+[Full Text](https://www.biorxiv.org/content/10.1101/2023.02.20.528934v1.full.pdf)
+[WWW](https://jensenlab.org/resources/s1000/)
 
 Kokoli, M., Karatzas, E., Baltoumas, F.A., Schneider, R., Pafilis, E., Paragkamian, S., Doncheva, N.T., Jensen, L.J., Pavlopoulos, G., *2022*. **Arena3Dweb: Interactive 3D visualization of multilayered networks supporting multiple directional information channels, clustering analysis and application integration**. 
 *bioRxiv preprint* 2022.10.01.510435
