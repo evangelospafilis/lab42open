@@ -89,6 +89,12 @@ Kokoli, M., Karatzas, E., Baltoumas, F.A., Schneider, R., Pafilis, E., Paragkami
 [WWW](http://arena3d.org)
 <span class="__dimensions_badge_embed__" data-doi="10.1101/2022.10.01.510435" data-style="small_rectangle"></span>
 
+Aravanopoulos, F.A., Arvanitidis, C., Bista, I., Dailianis, T., Galanis, A., Ioannidis, P., Kapli, P., Klapa, M.I., Kolovos, P., Kotoulas, G., Magoulas, A.N., Manousaki, T., Pafilis, E., Papageorgiou, A.C., Papakostas, S., Paragkamian, S., Pavlidis, P., Pavloudi, C., Poulakakis, N., Psomopoulos, F., Reczko, M., Sagonas, K., Stamatakis, A., Theofanopoulou, C., Triantafyllidis, A., Tsigenopoulos, C.S., Vasileiadou, K., Zafeiropoulos, H., *2022*. **Building the Molecular Biodiversity Greece Community**. 
+*Zenodo preprint* 7078816 
+[Abstract](https://doi.org/10.5281/zenodo.7078816) 
+[Full Text](https://zenodo.org/record/7078816/files/Building-MBGC.pdf)
+<span class="__dimensions_badge_embed__" data-doi="10.5281/zenodo.7078816" data-style="small_rectangle"></span>
+
 Fotis A. Baltoumas, Sofia Zafeiropoulou, Evangelos Karatzas, Savvas Paragkamian, Foteini Thanati, Ioannis Iliopoulos, Aristides G. Eliopoulos, Reinhard Schneider, Lars Juhl Jensen, Evangelos Pafilis, Georgios A. Pavlopoulos. *2021*
 **OnTheFly2.0: a text-mining web application for automated biomedical entity recognition, document annotation, network and functional enrichment analysis**
 *bioRxiv preprint* 2021.05.14.444150. 
@@ -96,12 +102,6 @@ Fotis A. Baltoumas, Sofia Zafeiropoulou, Evangelos Karatzas, Savvas Paragkamian,
 [Full Text](https://www.biorxiv.org/content/10.1101/2021.05.14.444150v1.full.pdf)
 [WWW](http://onthefly.hcmr.gr/)
 <span class="__dimensions_badge_embed__" data-doi="10.1101/2021.05.14.444150" data-style="small_rectangle"></span>
-
-Aravanopoulos, F.A., Arvanitidis, C., Bista, I., Dailianis, T., Galanis, A., Ioannidis, P., Kapli, P., Klapa, M.I., Kolovos, P., Kotoulas, G., Magoulas, A.N., Manousaki, T., Pafilis, E., Papageorgiou, A.C., Papakostas, S., Paragkamian, S., Pavlidis, P., Pavloudi, C., Poulakakis, N., Psomopoulos, F., Reczko, M., Sagonas, K., Stamatakis, A., Theofanopoulou, C., Triantafyllidis, A., Tsigenopoulos, C.S., Vasileiadou, K., Zafeiropoulos, H., *2022*. **Building the Molecular Biodiversity Greece Community**. 
-*Zenodo preprint* 7078816 
-[Abstract](https://doi.org/10.5281/zenodo.7078816) 
-[Full Text](https://zenodo.org/record/7078816/files/Building-MBGC.pdf)
-<span class="__dimensions_badge_embed__" data-doi="10.5281/zenodo.7078816" data-style="small_rectangle"></span>
 
 Haris Zafeiropoulos, Anastasia Gioti, Stelios Ninidakis, Antonis Potirakis, Savvas Paragkamian, Nelina Angelova, Aglaia Antoniou, Theodoros Danis, Eliza Kaitetzidou, Panagiotis Kasapidis, Jon Bent Kristoffersen, Vasileios Papadogiannis, Christina Pavloudi, Quoc Viet Ha, Jacques Lagnel, Nikos Pattakos, Giorgos Perantinos, Dimitris Sidirokastritis, Panagiotis Vavilis, Georgios Kotoulas, Tereza Manousaki, Elena Sarropoulou, Costas S Tsigenopoulos, Christos Arvanitidis, Antonios Magoulas and Evangelos Pafilis. *2021*. **The IMBBC HPC facility: history, configuration, usage statistics and related activities (1.0.0)**. *Zenodo preprint* 4665308. 
 [Abstract](https://doi.org/10.5281/zenodo.4665308)
