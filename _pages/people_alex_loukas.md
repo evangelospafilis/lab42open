@@ -24,25 +24,27 @@ I joined the Lab in March 2023 in the fascinating project [CCMRI](http://ccmri.h
   
     Project: Conservation of the Cave Fauna of Greece and development of [Cave Fauna of Greece (CFG) Database](https://database.inspee.gr/). For the analysis of these date see [CFG Analysis](https://inspee-hisr.github.io/CFG_analysis)
 
-#### Nov 2018 - Jan 2019 
+#### Nov 2015 - Jan 2016 
 
-  * Network Science Workshop 15 hours,Bioinformatics MSc Program, University of Crete (Greece) 
+  * Research assistant. 
+  * Data mining and biological database development, Bioinformatics research on extremophile microbes. Student exams supervisor. Aristotle University of Thessaloniki, Greece.
   
     [GitHub repository](https://savvas-paragkamian.github.io/network_science_workshop/)
   
-#### Sept 2016 - July 2017
-  * Inter-faculty Master Program on Complex Systems and Networks, Department of Mathematics, Aristotle University of Thessaloniki (Greece).
+#### Oct 2010 - July 2013
+  * MSc in Applied Genetics and Biotechnology, Aristotle University of Thessaloniki (Greece).
  
-    Thesis: [Exploring the centrality – leathality rule in signed protein networks](https://www.researchgate.net/publication/327779694_The_centrality_-_lethality_rule_in_signed_protein_interaction_networks)
+    Thesis: [In silico prediction of microRNAs within the introns of genes associated with diseases of
+the human nervous system](http://ikee.lib.auth.gr/record/278315/files/loukas.pdf)
   
-#### Oct 2014 - July 2015
-  * Undergraduate studies in University of Thessaly (Greece)
+#### Oct 2004 - July 2010
+  * Undergraduate studies in Computer Science and Biomedical Informatics, University of Thessaly (Greece)
   
-    Thesis: [Methodologies in haplotype analysi](https://core.ac.uk/download/pdf/132817664.pdf)
+    Thesis: [Methodologies in haplotype analysis](https://core.ac.uk/download/pdf/132817664.pdf)
   
  
 ## Contact
 
 [GitHub](https://github.com/loukalexis/)
 
-<s.paragkamian@hcmr.gr>
+<aloukas@bio.auth.gr>
