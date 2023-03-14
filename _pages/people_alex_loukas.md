@@ -38,11 +38,11 @@ I joined the Lab in March 2023 in the fascinating project [CCMRI](http://ccmri.h
 #### Oct 2014 - July 2015
   * Undergraduate studies in University of Thessaly (Greece)
   
-    Thesis: [Menzerath – Altmann’ s law in human gene families at the gene - exon level and their evolutionary history](https://www.researchgate.net/publication/327779916_Menzerath_-_Altmann's_law_in_human_gene_families_at_the_gene_-_exon_level_and_their_evolutionary_history)
+    Thesis: [Methodologies in haplotype analysi](https://core.ac.uk/download/pdf/132817664.pdf)
   
  
 ## Contact
 
-[GitHub](https://github.com/savvas-paragkamian/)
+[GitHub](https://github.com/loukalexis/)
 
 <s.paragkamian@hcmr.gr>
