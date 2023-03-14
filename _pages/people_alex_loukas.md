@@ -4,6 +4,8 @@ layout: single
 permalink: /people/alex-loukas/
 ---
 
+!(people_alexiosloukas.jpg)
+
 
 ## Research interests
 
