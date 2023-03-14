@@ -13,21 +13,16 @@ I joined the Lab in March 2023 in the fascinating project [CCMRI](http://ccmri.h
 
 ## Brief CV
 
-#### December 2019 - Present
 
-* Phd on Microbe Ecology and Informatics. Hellenic Center of Marine Research and University of Crete.
+#### Mar 2016 - present
+
+  * Phd on Microbe Ecology and Informatics. Hellenic Center of Marine Research and University of Crete.
   
     Project: [PREGO](https://evangelospafilis.github.io/prego_web_site/) - Process Environment Organism
 
-#### August 2017 - 2019
-  * Hellenic Institute of Speleological Research, Ethnikis Antistaseos 82, Irakleio (Greece)
-  
-    Project: Conservation of the Cave Fauna of Greece and development of [Cave Fauna of Greece (CFG) Database](https://database.inspee.gr/). For the analysis of these date see [CFG Analysis](https://inspee-hisr.github.io/CFG_analysis)
+#### Sep 2015 - Mar 2016 
 
-#### Nov 2015 - Jan 2016 
-
-  * Research assistant. 
-  * Data mining and biological database development, Bioinformatics research on extremophile microbes. Student exams supervisor. Aristotle University of Thessaloniki, Greece.
+  * Research assistant. Data mining and biological database development, Bioinformatics research on extremophile microbes. Student exams supervisor in Aristotle University of Thessaloniki, Greece.
   
     [GitHub repository](https://savvas-paragkamian.github.io/network_science_workshop/)
   
