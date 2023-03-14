@@ -7,9 +7,9 @@ permalink: /people/alex-loukas/
 
 ## Research interests
 
-My research interests span complex system analysis in biological systems using network theory, statistical analysis and mathematical models. 
+My research interests span extremophile organims, adaptations, adaptation prediction, biological database development, human disease, disease genes, microRNAs, data analysis and data/text mining. 
 
-I joined the Lab in December 2019 in the fascinating project [PREGO](https://evangelospafilis.github.io/prego_web_site/) which aims to link microbial processes to ecosystem function.
+I joined the Lab in March 2023 in the fascinating project [CCMRI](http://ccmri.hcmr.gr/) which aims to link microbial processes to ecosystem function.
 
 ## Brief CV
 
