@@ -9,7 +9,7 @@ permalink: /people/alex-loukas/
 
 My research interests include extremophile organims, adaptations, adaptation prediction, biological database development, human disease, disease genes, microRNAs, data analysis and data/text mining. 
 
-I joined the Lab in March 2023 in the fascinating project [CCMRI](http://ccmri.hcmr.gr/) which aims to harvest the metagenomic records pertaining to Climate Change and offer researchers with a web-based notification service when relevant records become available.
+I joined the Lab in March 2023 to participate in the project [CCMRI](http://ccmri.hcmr.gr/) which aims to harvest the metagenomic records pertaining to Climate Change and offer researchers with a web-based notification service when relevant records become available.
 
 ## Brief CV
 
