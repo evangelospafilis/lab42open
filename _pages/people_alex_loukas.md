@@ -9,7 +9,7 @@ permalink: /people/alex-loukas/
 
 My research interests span extremophile organims, adaptations, adaptation prediction, biological database development, human disease, disease genes, microRNAs, data analysis and data/text mining. 
 
-I joined the Lab in March 2023 in the fascinating project [CCMRI](http://ccmri.hcmr.gr/) which aims to link microbial processes to ecosystem function.
+I joined the Lab in March 2023 in the fascinating project [CCMRI](http://ccmri.hcmr.gr/) which aims to harvest the metagenomic records pertaining to Climate Change and offer researchers with a web-based notification service when relevant records become available.
 
 ## Brief CV
 
@@ -36,7 +36,7 @@ I joined the Lab in March 2023 in the fascinating project [CCMRI](http://ccmri.h
     Thesis: [Exploring the centrality – leathality rule in signed protein networks](https://www.researchgate.net/publication/327779694_The_centrality_-_lethality_rule_in_signed_protein_interaction_networks)
   
 #### Oct 2014 - July 2015
-  * Undergraduate studies in Biology, University of Crete (Greece)
+  * Undergraduate studies in University of Thessaly (Greece)
   
     Thesis: [Menzerath – Altmann’ s law in human gene families at the gene - exon level and their evolutionary history](https://www.researchgate.net/publication/327779916_Menzerath_-_Altmann's_law_in_human_gene_families_at_the_gene_-_exon_level_and_their_evolutionary_history)
   
