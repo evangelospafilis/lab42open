@@ -16,15 +16,15 @@ I joined the Lab in March 2023 to participate in the project [CCMRI](http://ccmr
 
 #### Mar 2016 - present
 
-  * Phd on Comparative genomics of halophilic organisms. Research on comparative genomics, evolutionary biology, and phylogenomics of extremophile
-microbes. Supervisor: Assist. Prof. Ilias Kappas. Funded by H.F.R.I..
+  * Phd on Comparative genomics of halophilic organisms. Research on data mining, amino acid profiling, evolutionary biology, and phylogenomics of extremophile
+microbes. Supervisor: Assist. Prof. Ilias Kappas. Dissertation funded by H.F.R.I..
   
 
 #### Sep 2015 - Mar 2016 
 
   * Research assistant in Aristotle University of Thessaloniki, Greece. 
   
-  Tasks: Data mining and biological database development, Bioinformatics research on extremophile microbes and student exams supervisor.
+  Tasks: Data mining and biological database development [HaloDom](http://halodom.bio.auth.gr/), Bioinformatics research on extremophile microbes and student exams supervisor.
   
   
 #### Oct 2010 - July 2013
