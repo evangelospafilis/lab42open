@@ -12,6 +12,7 @@ permalink: /people/
 - [Antonis Potirakis](https://imbbc.hcmr.gr/user/potant/)
 - [Savvas Paragkamian](savvas-paragkamian)
 - [Stelios Ninidakis](steliosninidakis)
+- [Alexios Loukas](alex-loukas)
 
 ## Visitors - Alumni
 - [Anastasia Gioti](https://scholar.google.com/citations?user=eMsnakoAAAAJ&hl=en&oi=ao)
