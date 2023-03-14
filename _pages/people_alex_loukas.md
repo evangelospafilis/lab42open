@@ -24,7 +24,7 @@ microbes. Supervisor: Assist. Prof. Ilias Kappas. Dissertation funded by H.F.R.I
 
   * Research assistant in Aristotle University of Thessaloniki, Greece. 
   
-  Tasks: Data mining and creation of biological database [HaloDom](http://halodom.bio.auth.gr/) for halophilic species, Bioinformatics research on extremophile microbes and student exams supervisor.
+  Tasks: Data mining and creation of [HaloDom](http://halodom.bio.auth.gr/), a biological database of halophilic species. Bioinformatics research on extremophile microbes and student exams supervisor.
   
   
 #### Oct 2010 - July 2013
