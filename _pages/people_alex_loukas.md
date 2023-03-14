@@ -1,7 +1,7 @@
 ---
-title: Savvas Paragkamian
+title: Alexios Loukas
 layout: single
-permalink: /people/savvas-paragkamian/
+permalink: /people/alex-loukas/
 ---
 
 
