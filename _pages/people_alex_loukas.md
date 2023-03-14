@@ -16,15 +16,14 @@ I joined the Lab in March 2023 in the fascinating project [CCMRI](http://ccmri.h
 
 #### Mar 2016 - present
 
-  * Phd on Microbe Ecology and Informatics. Hellenic Center of Marine Research and University of Crete.
+  * Phd on Comparative genomics of halophilic organisms. Research on comparative genomics, evolutionary biology, and phylogenomics of extremophile
+microbes. Supervisor: Assist. Prof. Ilias Kappas. Funded by H.F.R.I.
   
-    Project: [PREGO](https://evangelospafilis.github.io/prego_web_site/) - Process Environment Organism
 
 #### Sep 2015 - Mar 2016 
 
-  * Research assistant. Data mining and biological database development, Bioinformatics research on extremophile microbes. Student exams supervisor in Aristotle University of Thessaloniki, Greece.
+  * Research assistant in data mining and biological database development, Bioinformatics research on extremophile microbes. Student exams supervisor in Aristotle University of Thessaloniki, Greece.
   
-    [GitHub repository](https://savvas-paragkamian.github.io/network_science_workshop/)
   
 #### Oct 2010 - July 2013
   * MSc in Applied Genetics and Biotechnology, Aristotle University of Thessaloniki (Greece).
