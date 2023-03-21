@@ -45,4 +45,4 @@ the human nervous system](http://ikee.lib.auth.gr/record/278315/files/loukas.pdf
 
 [GitHub](https://github.com/loukalexis/)
 
-<aloukas@bio.auth.gr>
+<a.loukas@hcmr.gr>
