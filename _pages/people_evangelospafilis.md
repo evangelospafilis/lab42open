@@ -17,7 +17,7 @@ At the mean time I enjoy co-coordinating the Institute of Marine Biology Biotech
 
 ## Brief CV
 
-* Principal Researcher("B grade") in Bioinformatics and Biodiversity informatics (2018-present)
+* Researcher in Bioinformatics and Biodiversity informatics (2018-present)
 * Postdoctoral Researcher (2011), Hellenic Center for Marine Research, Institute of Marine Biology Biotechnology and Aquaculture
 * Postdoctoral Researcher (2009), Medical School, University of Crete
 * PhD in Bionformatics (2009), EMBL - University of Heidelberg
