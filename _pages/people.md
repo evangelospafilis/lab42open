@@ -9,12 +9,15 @@ permalink: /people/
 [Evangelos Pafilis](evangelospafilis) 
 
 ## Current group members
-- [Antonis Potirakis](https://imbbc.hcmr.gr/user/potant/)
 - [Savvas Paragkamian](savvas-paragkamian)
 - [Stelios Ninidakis](steliosninidakis)
 - [Alexios Loukas](alex-loukas)
+- Christina Damianou
+- Nevefi Venetsianou
+- Konstantinos Kalaentzis
 
 ## Visitors - Alumni
+- [Antonis Potirakis](https://imbbc.hcmr.gr/user/potant/)
 - [Anastasia Gioti](https://scholar.google.com/citations?user=eMsnakoAAAAJ&hl=en&oi=ao)
 - [Haris Zafeiropoulos](hariszafeiropoulos)
 - [Christina Pavloudi](christinapavloudi)
