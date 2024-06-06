@@ -13,7 +13,7 @@ permalink: /people/
 - [Stelios Ninidakis](steliosninidakis)
 - [Alexios Loukas](alex-loukas)
 - Christina Damianou
-- Nefeli Kleopatra Venetsianou
+- Nefeli Kleopatra Venetsianou 
 - Konstantinos Kalaentzis
 
 ## Visitors - Alumni
