@@ -35,10 +35,10 @@ I joined the Lab in February 2024 in the promissing project CCMRI, a dynamic res
 
  
 ## Publications
-[Researchgate](https://www.researchgate.net/profile/Nefeli-Venetsianou)
+[ResearchGate](https://www.researchgate.net/profile/Nefeli-Venetsianou)
 
 ## GitHub 
-[GitHub](https://github.com/nvenetsianou))
+[GitHub](https://github.com/nvenetsianou)
 
 ## Contact
 <n.venetsianou@hcmr.gr>
