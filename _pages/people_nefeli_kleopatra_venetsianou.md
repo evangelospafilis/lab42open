@@ -4,7 +4,7 @@ layout: single
 permalink: /people/nefeli_kleopatra_venetsianou/
 ---
 
-![Photo of Nefeli Kleopatra Venetsianou]()
+![Photo of Nefeli Kleopatra Venetsianou](people_nefeli_kleopatra_venetsianou.jpg)
 
 
 ## Research interests
