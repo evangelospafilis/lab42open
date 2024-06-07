@@ -4,7 +4,7 @@ layout: single
 permalink: /people/konstantinos-kalaentzis/
 ---
 
-![Photo of Konstantinos Kalaentzis](people_konstantinoskalaentzis.jpg)
+![Photo of Konstantinos Kalaentzis](people_konstantinoskalaentzis2.jpg)
 
 
 ## Research interests
