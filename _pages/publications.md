@@ -8,6 +8,20 @@ sidebar:
 
 ## Research articles
 
+<!--
+Loukas, A., Kalaentzis, K., Venetsianou, N.K. et al. CCMRI: a classification and curated database of climate change-related microbiome studies. Sci Rep 16, 20829 (2026). https://doi.org/10.1038/s41598-026-51914-z
+
+Venetsianou, N.K., Paragkamian, S., Kalaentzis, K. et al. LLM-Assessed Relatedness of Microbiome Study Descriptions Aligns more Strongly with Functional than with Taxonomic Profile Similarity. Microba Ecol 89, 104 (2026). https://doi.org/10.1007/s00248-026-02730-5
+
+----
+
+
+Waterhouse RM, Adam-Blondon AF, Balech B, Barta E, Ying Shi Chua P, Di Cola V, Heil KF, Hughes GM, Jermiin LS, Kalaš M, Lanfear J, Pafilis E, Palagi PM, Papageorgiou AC, Paupério J, Psomopoulos F, Raes N, Burgin J, Gabaldón T. The ELIXIR Biodiversity Community: Understanding short- and long-term changes in biodiversity. F1000Res. 2024 May 22;12:ELIXIR-499. doi: 10.12688/f1000research.133724.2. PMID: 38882711; PMCID: PMC11179050.
+
+Waterhouse RM, Adam-Blondon AF, Balech B *et al.* **The ELIXIR Biodiversity Community: Understanding short- and long-term changes in biodiversity [version 2; peer review: 3 approved]**. F1000Research 2024, 12(ELIXIR):499 (https://doi.org/10.12688/f1000research.133724.2)
+
+-->
+
 Paragkamian, S., Sarafidou, G., Mavraki, D., Pavloudi, C., Beja, J., Eliezer, M., Lipizer, M., Boicenco, L., Vandepitte, L., Perez-Perez, R., Zafeiropoulos, H., Arvanitidis, C., Pafilis, E., Gerovasileiou, V., 2022. **Automating the Curation Process of Historical Literature on Marine Biodiversity Using Text Mining: The DECO Workflow**. Frontiers in Marine Science, 9.  [Abstract](https://doi.org/10.3389/fmars.2022.940844) 
 [Full Text](https://doi.org/10.3389/fmars.2022.940844)
 [WWW](https://github.com/lab42open-team/deco)
@@ -50,6 +64,9 @@ Zafeiropoulos H, Viet HQ, Vasileiadou K, Potirakis A, Arvanitidis C, Topalis P, 
 
 Chasapi A, Aivaliotis M, Angelis L, Chanalaris A, Iliopoulos I, Kappas I, Karapiperis C, Kyrpides NC, Pafilis E, Panteris E, Topalis P, Tsiamis G, Vizirianakis IS, Vlassi M, Promponas VJ, Ouzounis CA *2019* **Establishment of computational biology in Greece and Cyprus: Past, present, and future**. *PLoS Comput Biol.*, *15(12)*:e1007532.
 [Abstract](https://www.ncbi.nlm.nih.gov/pubmed/31856214) [Full text](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007532) <span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1007532" data-style="small_rectangle"></span>
+
+Buttigieg PL, Pafilis E, Lewis SE, Schildhauer MP, Walls RL, Mungall CJ. *2016* **The environment ontology in 2016: bridging domains with increased scope, semantic density, and interoperation**. *Journal of Biomedical Semantics.*, *7,57*  
+[Abstract](https://pubmed.ncbi.nlm.nih.gov/27664130/) [Full text](https://peerj.com/articles/2690/) <span class="__dimensions_badge_embed__" data-doi="10.1186/s13326-016-0097-6" data-style="small_rectangle"></span>
 
 Varsos C, Patkos T, Oulas A, Pavloudi C, Gougousis A, Ijaz U, Filiopoulou I, Pattakos N, Vanden Berghe E, Fernández-Guerra A, Faulwetter S, Chatzinikolaou E, Pafilis E, Bekiari C, Doerr M, Arvanitidis C *2016*. **Optimized R functions for analysis of ecological community data using the R virtual laboratory (RvLab)**. *Biodiversity Data Journal* 4: e8357. [Abstract](https://doi.org/10.3897/BDJ.4.e8357) [Full text](https://bdj.pensoft.net/article/8357/download/pdf/) [WWW](https://portal.lifewatchgreece.eu/) <span class="__dimensions_badge_embed__" data-doi="10.3897/BDJ.4.e8357" data-style="small_rectangle"></span>
 
@@ -116,8 +133,6 @@ Arvanitidis CD, Warwick RM, Somerfield PJ, Pavloudi C, Pafilis E, Oulas A, Chatz
 [Abstract](https://doi.org/10.7287/peerj.preprints.26819v2) [Full text](https://doi.org/10.7287/peerj.preprints.26819v2) <span class="__dimensions_badge_embed__" data-doi="10.7287/peerj.preprints.26819v2" data-style="small_rectangle"></span>
 
 ## Conference proceedings
-
-<!-- next: add GKot conference in 2019 summer -->
 
 Pafilis E, Bērziņš R and Jensen LJ (2017). **EXTRACT 2.0: text-mining-assisted interactive annotation of biomedical named entities and ontology terms**. *Proceedings of Bio-Ontologies 2017*.  
 [Full text](https://doi.org/10.1101/111088) [WWW](https://extract.jensenlab.org/) <span class="__dimensions_badge_embed__" data-doi="10.1101/111088" data-style="small_rectangle"></span>
