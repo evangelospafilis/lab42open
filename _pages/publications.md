@@ -40,6 +40,12 @@ Holm JB, Paragkamian S, Humphreys M, Chatterjee A, Yarwood S, Gaimaro J, *et al*
 [WWW](https://genomicsstandardsconsortium.github.io/isd-crete-website){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.1186/s40793-025-00752-z" data-style="small_rectangle"></span>
 
+Finn RD, Balech B, Burgin J et al. *2025*. **Establishing the ELIXIR Microbiome Community [version 2; peer review: 2 approved, 1 approved with reservations]**. F1000Research 2025, 13(ELIXIR):50 (https://doi.org/10.12688/f1000research.144515.2)
+[Abstract](https://pubmed.ncbi.nlm.nih.gov/40970218/){:target="_blank"}
+[Full Text](https://doi.org/10.12688/f1000research.144515.2){:target="_blank"}
+[WWW](https://elixir-europe.org/communities/microbiome){:target="_blank"}
+<span class="__dimensions_badge_embed__" data-doi="10.12688/f1000research.144515.2" data-style="small_rectangle"></span>
+
 ### 2022
 
 Paragkamian, S., Sarafidou, G., Mavraki, D., Pavloudi, C., Beja, J., Eliezer, M., Lipizer, M., Boicenco, L., Vandepitte, L., Perez-Perez, R., Zafeiropoulos, H., Arvanitidis, C., Pafilis, E., Gerovasileiou, V., *2022*. **Automating the Curation Process of Historical Literature on Marine Biodiversity Using Text Mining: The DECO Workflow**. Frontiers in Marine Science, 9.  [Abstract](https://doi.org/10.3389/fmars.2022.940844) 
