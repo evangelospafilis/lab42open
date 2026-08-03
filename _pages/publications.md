@@ -36,7 +36,7 @@ doi: 10.1007/s00248-026-02730-5.
 
 Holm JB, Paragkamian S, Humphreys M, Chatterjee A, Yarwood S, Gaimaro J, *et al*. *2025*. **First island-wide, single-day soil collection study on Crete reveals environmental drivers of microbial diversity**. Environmental Microbiome. 2025; doi: 10.1186/s40793-025-00752-z.
 [Abstract](https://pubmed.ncbi.nlm.nih.gov/40708004/){:target="_blank"}
-[Full Text](https://10.1186/s40793-025-00752-z){:target="_blank"}
+[Full Text](https://doi.org/10.1186/s40793-025-00752-z){:target="_blank"}
 [WWW](https://genomicsstandardsconsortium.github.io/isd-crete-website){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.1186/s40793-025-00752-z" data-style="small_rectangle"></span>
 
