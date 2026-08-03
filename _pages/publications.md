@@ -25,7 +25,7 @@ Waterhouse RM, Adam-Blondon AF, Balech B *et al.* **The ELIXIR Biodiversity Comm
 Loukas A, Kalaentzis K, Venetsianou NK, Damianou C, Paragkamian S, Lagani V, Jensen LJ, Pafilis E. *2026* **CCMRI: a classification and curated database of climate change-related microbiome studies**. Sci Rep. Nature Publishing Group; 16, 20829 (2026); https://doi.org/10.1038/s41598-026-51914-z
 [Abstract](https://pubmed.ncbi.nlm.nih.gov/42092044/){:target="_blank"}
 [Full Text](https://doi.org/10.1038/s41598-026-51914-z){:target="_blank"}
-[WWW](https://github.com/lab42open-team/similarity_metrics){:target="_blank"}
+[WWW](https://ccmri.hcmr.gr/){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-026-51914-z" data-style="small_rectangle"></span>
 
 Venetsianou NK, Paragkamian S, Kalaentzis K, Loukas A, Damianou C, Lagani V, Jensen LJ, Pafilis E. *2026* **LLM-Assessed Relatedness of Microbiome Study Descriptions Aligns more Strongly with Functional than with Taxonomic Profile Similarity**. Microb Ecol. *89, 104 (2026)*
