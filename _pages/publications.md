@@ -23,9 +23,9 @@ Waterhouse RM, Adam-Blondon AF, Balech B *et al.* **The ELIXIR Biodiversity Comm
 -->
 Venetsianou NK, Paragkamian S, Kalaentzis K, Loukas A, Damianou C, Lagani V, Jensen LJ, Pafilis E. *2026* **LLM-Assessed Relatedness of Microbiome Study Descriptions Aligns more Strongly with Functional than with Taxonomic Profile Similarity**. Microb Ecol. *89, 104 (2026)*
 doi: 10.1007/s00248-026-02730-5.
-[Abstract](https://pubmed.ncbi.nlm.nih.gov/41915167/) 
-[Full Text](https://doi.org/10.1007/s00248-026-02730-5)
-[WWW](https://github.com/lab42open-team/similarity_metrics)
+[Abstract](https://pubmed.ncbi.nlm.nih.gov/41915167/){:target="_blank"}
+[Full Text](https://doi.org/10.1007/s00248-026-02730-5){:target="_blank"}
+[WWW](https://github.com/lab42open-team/similarity_metrics){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.1007/s00248-026-02730-5" data-style="small_rectangle"></span>
 
 Paragkamian, S., Sarafidou, G., Mavraki, D., Pavloudi, C., Beja, J., Eliezer, M., Lipizer, M., Boicenco, L., Vandepitte, L., Perez-Perez, R., Zafeiropoulos, H., Arvanitidis, C., Pafilis, E., Gerovasileiou, V., 2022. **Automating the Curation Process of Historical Literature on Marine Biodiversity Using Text Mining: The DECO Workflow**. Frontiers in Marine Science, 9.  [Abstract](https://doi.org/10.3389/fmars.2022.940844) 
