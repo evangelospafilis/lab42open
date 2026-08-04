@@ -53,8 +53,9 @@ Aplakidou E, Vergoulidis N, Chasapi M, Venetsianou NK, Kokoli M, Panagiotopoulou
 ### 2023
 
 Zafeiropoulos H, Beracochea M, Ninidakis S, Exter K, Potirakis A, De Moro G, *et al. 2023*. **metaGOflow: a workflow for the analysis of marine Genomic Observatories shotgun metagenomics data**. GigaScience. 2023; doi: 10.1093/gigascience/giad078.
-[Abstract](https://pubmed.ncbi.nlm.nih.gov/38765606/){:target="_blank"}
+[Abstract](https://pubmed.ncbi.nlm.nih.gov/37850871/){:target="_blank"}
 [Full Text](https://doi.org/10.1093/gigascience/giad078){:target="_blank"}
+[WWW](https://github.com/emo-bon/MetaGOflow){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.1093/gigascience/giad078" data-style="small_rectangle"></span>
 
 ### 2022
