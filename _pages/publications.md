@@ -216,6 +216,13 @@ Schriml, L., Mizrachi, I., Sterk, P. *et al. 2013*. **The 15th Genomic Standards
 [Full text](https://doi.org/10.4056/sigs.3457){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.4056/sigs.3457" data-style="small_rectangle"></span>
 
+### 2011
+
+Arvanitidis C, Faulwetter S, Chatzigeorgiou G, *et al. 2011*. **Engaging the broader community in biodiversity research: the concept of the COMBER pilot project for divers in ViBRANT**. ZooKeys 150: 211-229. https://doi.org/10.3897/zookeys.150.2149
+[Abstract](https://doi.org/10.3897/zookeys.150.2149){:target="_blank"}
+[Full text](https://doi.org/10.3897/zookeys.150.2149){:target="_blank"}
+<span class="__dimensions_badge_embed__" data-doi="10.3897/zookeys.150.2149" data-style="small_rectangle"></span>
+
 ### 2010
 
 O’Donoghue SI, Horn H, Pafilis E, Haag S, Kuhn M, Satagopam VP, Schneider R and Jensen LJ. *2010*. **Reflect: a practical approach to web semantics**. *Journal of Web Semantics*, *8*:182-189.  
