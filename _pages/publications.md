@@ -113,9 +113,9 @@ Haris Zafeiropoulos, Anastasia Gioti, Stelios Ninidakis, Antonis Potirakis, Savv
 
 Vangay P, Burgin J, Johnston A, Beck KL, *et al. 2021*. **Microbiome Metadata Standards: Report of the National Microbiome Data Collaborative's Workshop and Follow-On Activities**. mSystems. 2021 Feb 23;6(1):e01194-20. doi: 10.1128/mSystems.01194-20. Erratum in: mSystems. 2021 May 4;6(3):e00273-21. doi: 10.1128/mSystems.00273-21.
 [Abstract](https://pubmed.ncbi.nlm.nih.gov/33622857/){:target="_blank"}
-[Full Text](https://10.1128/mSystems.01194-20){:target="_blank"}
+[Full Text](https://doi.org/10.1128/msystems.01194-20){:target="_blank"}
 [WWW](https://microbiomedata.org/nmdc-ontology-workshop/){:target="_blank"}
-<span class="__dimensions_badge_embed__" data-doi="10.1128/mSystems.01194-20" data-style="small_rectangle"></span>
+<span class="__dimensions_badge_embed__" data-doi="10.1128/msystems.01194-20" data-style="small_rectangle"></span>
 
 ### 2020
 
@@ -160,6 +160,11 @@ Pafilis E, Buttigieg PL, Ferrell B, Pereira E, Schnetzer J, Arvanitidis C and Je
 [Full text](https://doi.org/10.1093/database/baw005){:target="_blank"}
 [WWW](https://extract.jensenlab.org){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.1093/database/baw005" data-style="small_rectangle"></span>
+
+Vasileiadou K, Pavloudi C, Kalantzi I, Apostolaki ET, Chatzigeorgiou G, Chatzinikolaou E, Pafilis E, Papageorgiou N, Fanini L, Konstas S, Fragopoulou N, Arvanitidis C. *2026*. **Environmental variability and heavy metal concentrations from five lagoons in the Ionian Sea (Amvrakikos Gulf, W Greece)**. Biodivers Data J. 2016 Nov 1;(4):e8233. doi: 10.3897/BDJ.4.e8233.
+[Abstract](https://www.ncbi.nlm.nih.gov/pubmed/27932906){:target="_blank"}
+[Full text](https://doi.org/10.3897/BDJ.4.e8233){:target="_blank"}
+<span class="__dimensions_badge_embed__" data-doi="10.3897/BDJ.4.e8233" data-style="small_rectangle"></span>
 
 ### 2015
 
