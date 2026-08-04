@@ -8,15 +8,6 @@ sidebar:
 
 ## Research articles
 
-<!--
-
-Waterhouse RM, Adam-Blondon AF, Balech B, Barta E, Ying Shi Chua P, Di Cola V, Heil KF, Hughes GM, Jermiin LS, Kalaš M, Lanfear J, Pafilis E, Palagi PM, Papageorgiou AC, Paupério J, Psomopoulos F, Raes N, Burgin J, Gabaldón T. The ELIXIR Biodiversity Community: Understanding short- and long-term changes in biodiversity. F1000Res. 2024 May 22;12:ELIXIR-499. doi: 10.12688/f1000research.133724.2. PMID: 38882711; PMCID: PMC11179050.
-
-Waterhouse RM, Adam-Blondon AF, Balech B *et al.* **The ELIXIR Biodiversity Community: Understanding short- and long-term changes in biodiversity [version 2; peer review: 3 approved]**. F1000Research 2024, 12(ELIXIR):499 (https://doi.org/10.12688/f1000research.133724.2)
-
--->
-
-
 ### 2026
 
 Loukas A, Kalaentzis K, Venetsianou NK, Damianou C, Paragkamian S, Lagani V, Jensen LJ, Pafilis E. *2026*. **CCMRI: a classification and curated database of climate change-related microbiome studies**. Sci Rep. Nature Publishing Group; 16, 20829 (2026); https://doi.org/10.1038/s41598-026-51914-z
@@ -45,6 +36,14 @@ Finn RD, Balech B, Burgin J et al. *2025*. **Establishing the ELIXIR Microbiome 
 [Full Text](https://doi.org/10.12688/f1000research.144515.2){:target="_blank"}
 [WWW](https://elixir-europe.org/communities/microbiome){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.12688/f1000research.144515.2" data-style="small_rectangle"></span>
+
+### 2024
+
+Waterhouse RM, Adam-Blondon AF, Balech B *et al. 2024*. **The ELIXIR Biodiversity Community: Understanding short- and long-term changes in biodiversity [version 2; peer review: 3 approved]**. F1000Research 2024, 12(ELIXIR):499 (https://doi.org/10.12688/f1000research.133724.2)
+[Abstract](https://pubmed.ncbi.nlm.nih.gov/38882711/){:target="_blank"}
+[Full Text](https://doi.org/10.12688/f1000research.133724.2){:target="_blank"}
+[WWW](https://elixir-europe.org/communities/biodiversity){:target="_blank"}
+<span class="__dimensions_badge_embed__" data-doi="10.12688/f1000research.133724.2" data-style="small_rectangle"></span>
 
 ### 2022
 
