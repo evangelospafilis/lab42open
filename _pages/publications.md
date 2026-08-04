@@ -58,6 +58,12 @@ Zafeiropoulos H, Beracochea M, Ninidakis S, Exter K, Potirakis A, De Moro G, *et
 [WWW](https://github.com/emo-bon/MetaGOflow){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.1093/gigascience/giad078" data-style="small_rectangle"></span>
 
+Luoma J, Nastou K, Ohta T, Toivonen H, Pafilis E, Jensen LJ, Pyysalo S. *2023*. **S1000: a better taxonomic name corpus for biomedical information extraction**. Bioinformatics. 2023 Jun 1;39(6):btad369. doi: 10.1093/bioinformatics/btad369. 
+[Abstract](https://pubmed.ncbi.nlm.nih.gov/37289518/){:target="_blank"}
+[Full Text](https://doi.org/10.1093/bioinformatics/btad369){:target="_blank"}
+[WWW](https://jensenlab.org/resources/s1000/){:target="_blank"}
+<span class="__dimensions_badge_embed__" data-doi="10.1093/bioinformatics/btad369" data-style="small_rectangle"></span>
+
 ### 2022
 
 Paragkamian, S., Sarafidou, G., Mavraki, D., Pavloudi, C., Beja, J., Eliezer, M., Lipizer, M., Boicenco, L., Vandepitte, L., Perez-Perez, R., Zafeiropoulos, H., Arvanitidis, C., Pafilis, E., Gerovasileiou, V., *2022*. **Automating the Curation Process of Historical Literature on Marine Biodiversity Using Text Mining: The DECO Workflow**. Frontiers in Marine Science, 9.  [Abstract](https://doi.org/10.3389/fmars.2022.940844) 
