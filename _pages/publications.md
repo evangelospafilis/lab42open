@@ -111,10 +111,10 @@ Haris Zafeiropoulos, Anastasia Gioti, Stelios Ninidakis, Antonis Potirakis, Savv
 [WWW](https://hpc.hcmr.gr){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.1093/gigascience/giab053" data-style="small_rectangle"></span>
 
-Vangay, P.; Burgin, J.; Johnston, A.; Beck, K.L.; Berrios, D.C.; Blumberg, K.; Canon, S.; Chain, P.; Chandonia, J.-M.; Christianson, D.; Pafilis, E.; et al. *2021*. **Microbiome Metadata Standards: Report of the National Microbiome Data Collaborative’s Workshop and Follow-On Activities.** *mSystems* 2021, *6*, e01194-20.
-[Abstract](https://doi.org/10.1128/mSystems.01194-20){:target="_blank"}
-[Full Text](https://doi.org/10.1128/mSystems.01194-20){:target="_blank"}
-[WWW](https://microbiomedata.org/){:target="_blank"}
+Vangay P, Burgin J, Johnston A, Beck KL, *et al. 2021*. **Microbiome Metadata Standards: Report of the National Microbiome Data Collaborative's Workshop and Follow-On Activities**. mSystems. 2021 Feb 23;6(1):e01194-20. doi: 10.1128/mSystems.01194-20. Erratum in: mSystems. 2021 May 4;6(3):e00273-21. doi: 10.1128/mSystems.00273-21.
+[Abstract](https://pubmed.ncbi.nlm.nih.gov/33622857/){:target="_blank"}
+[Full Text](https://10.1128/mSystems.01194-20){:target="_blank"}
+[WWW](https://microbiomedata.org/nmdc-ontology-workshop/){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.1128/mSystems.01194-20" data-style="small_rectangle"></span>
 
 ### 2020
