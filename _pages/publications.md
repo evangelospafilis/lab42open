@@ -70,6 +70,11 @@ Kokoli M, Karatzas E, Baltoumas FA, Schneider R, Pafilis E, Paragkamian S, Donch
 [WWW](https://arena3d.org/){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.1093/nargab/lqad053" data-style="small_rectangle"></span>
 
+Baltoumas FA, Karatzas E, Paez-Espino D, Venetsianou NK, Aplakidou E, Oulas A, Finn RD, Ovchinnikov S, Pafilis E, Kyrpides NC, Pavlopoulos GA. *2023*. **Exploring microbial functional biodiversity at the protein family level-From metagenomic sequence reads to annotated protein clusters**. Front Bioinform. 2023 Mar 3;3:1157956. doi: 10.3389/fbinf.2023.1157956.
+[Abstract](https://pubmed.ncbi.nlm.nih.gov/36959975/){:target="_blank"}
+[Full Text](https://doi.org/10.3389/fbinf.2023.1157956){:target="_blank"}
+<span class="__dimensions_badge_embed__" data-doi="10.3389/fbinf.2023.1157956" data-style="small_rectangle"></span>
+
 ### 2022
 
 Paragkamian, S., Sarafidou, G., Mavraki, D., Pavloudi, C., Beja, J., Eliezer, M., Lipizer, M., Boicenco, L., Vandepitte, L., Perez-Perez, R., Zafeiropoulos, H., Arvanitidis, C., Pafilis, E., Gerovasileiou, V., *2022*. **Automating the Curation Process of Historical Literature on Marine Biodiversity Using Text Mining: The DECO Workflow**. Frontiers in Marine Science, 9.  [Abstract](https://doi.org/10.3389/fmars.2022.940844) 
