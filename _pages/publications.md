@@ -182,6 +182,11 @@ Pafilis E, Pletscher-Frankild S, Schnetzer J, Fanini L, Faulwetter S, Pavloudi C
 
 ### 2014
 
+Davies N, Field D, Amaral-Zettler L, et al. *2014*. **The founding charter of the Genomic Observatories Network**. Gigascience. 2014 Mar 7;3(1):2. doi: 10.1186/2047-217X-3-2. 
+[Abstract](https://www.ncbi.nlm.nih.gov/pubmed/24606731){:target="_blank"}
+[Full text](https://doi.org/10.1186/2047-217X-3-2){:target="_blank"}
+<span class="__dimensions_badge_embed__" data-doi="10.1186/2047-217X-3-2" data-style="small_rectangle"></span>
+
 Papanikolaou N, Pavlopoulos GA, Pafilis E, *et al. 2014*. **BioTextQuest(+): a knowledge integration platform for literature mining and concept discovery**. Bioinformatics. 2014 Nov 15;30(22):3249-56. doi: 10.1093/bioinformatics/btu524. Epub 2014 Aug 6. Erratum in: Bioinformatics. 2015 Mar 15;31(6):979. doi: 10.1093/bioinformatics/btv029.
 [Abstract](https://www.ncbi.nlm.nih.gov/pubmed/25100685){:target="_blank"}
 [Full text](https://doi.org/10.1093/bioinformatics/btu524){:target="_blank"}
@@ -205,6 +210,11 @@ Pafilis E, Pletscher-Frankild S, Fanini L, Faulwetter S, Pavloudi C, Vasileiadou
 [Full text](https://doi.org/10.1371/journal.pone.0065390){:target="_blank"}
 [WWW](https://species.jensenlab.org){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0065390" data-style="small_rectangle"></span>
+
+Schriml, L., Mizrachi, I., Sterk, P. *et al. 2013*. **The 15th Genomic Standards Consortium meeting**. Stand in Genomic Sci 8, 124–164 (2013). https://doi.org/10.4056/sigs.3457
+[Abstract](https://doi.org/10.4056/sigs.3457){:target="_blank"}
+[Full text](https://doi.org/10.4056/sigs.3457){:target="_blank"}
+<span class="__dimensions_badge_embed__" data-doi="10.4056/sigs.3457" data-style="small_rectangle"></span>
 
 ### 2010
 
