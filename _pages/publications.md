@@ -180,6 +180,14 @@ Pafilis E, Pletscher-Frankild S, Schnetzer J, Fanini L, Faulwetter S, Pavloudi C
 [WWW](https://environments.jensenlab.org){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.1093/bioinformatics/btv045" data-style="small_rectangle"></span>
 
+### 2014
+
+Papanikolaou N, Pavlopoulos GA, Pafilis E, *et al. 2014*. **BioTextQuest(+): a knowledge integration platform for literature mining and concept discovery**. Bioinformatics. 2014 Nov 15;30(22):3249-56. doi: 10.1093/bioinformatics/btu524. Epub 2014 Aug 6. Erratum in: Bioinformatics. 2015 Mar 15;31(6):979. doi: 10.1093/bioinformatics/btv029.
+[Abstract](https://www.ncbi.nlm.nih.gov/pubmed/25100685){:target="_blank"}
+[Full text](https://doi.org/10.1093/bioinformatics/btu524){:target="_blank"}
+[WWW](https://bioinformatics.med.uoc.gr/biotextquest/){:target="_blank"}
+<span class="__dimensions_badge_embed__" data-doi="10.1093/bioinformatics/btu524" data-style="small_rectangle"></span>
+
 ### 2013
 
 Pafilis E, Pletscher-Frankild S, Fanini L, Faulwetter S, Pavloudi C, Vasileiadou A, Arvanitidis C and Jensen LJ *2013*. **The SPECIES and ORGANISMS resources for fast and accurate identification of taxonomic names in text**. *PLOS ONE*, *8*:e65390.  
