@@ -174,7 +174,7 @@ ten Hoopen P, Amid C, Buttigieg PL, *et al. 2016*. **Value, but high costs in po
 
 ### 2015
 
-Pafilis E, Pletscher-Frankild S, Schnetzer J, Fanini L, Faulwetter S, Pavloudi C, Vasileiadou V, Leary P, Hammock J, Schulz K, Parr CS, Arvanitidis C and Jensen LJ. *2015**. **ENVIRONMENTS and EOL: identification of Environment Ontology terms in text and the annotation of the Encyclopedia of Life**. *Bioinformatics*, *31*:1872-1874.  
+Pafilis E, Pletscher-Frankild S, Schnetzer J, Fanini L, Faulwetter S, Pavloudi C, Vasileiadou V, Leary P, Hammock J, Schulz K, Parr CS, Arvanitidis C and Jensen LJ. *2015*. **ENVIRONMENTS and EOL: identification of Environment Ontology terms in text and the annotation of the Encyclopedia of Life**. *Bioinformatics*, *31*:1872-1874.  
 [Abstract](https://www.ncbi.nlm.nih.gov/pubmed/25619994){:target="_blank"}
 [Full text](https://doi.org/10.1093/bioinformatics/btv045){:target="_blank"}
 [WWW](https://environments.jensenlab.org){:target="_blank"}
@@ -187,6 +187,11 @@ Papanikolaou N, Pavlopoulos GA, Pafilis E, *et al. 2014*. **BioTextQuest(+): a k
 [Full text](https://doi.org/10.1093/bioinformatics/btu524){:target="_blank"}
 [WWW](https://bioinformatics.med.uoc.gr/biotextquest/){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.1093/bioinformatics/btu524" data-style="small_rectangle"></span>
+
+Faulwetter S, Markantonatou V, Pavloudi C, *et al. 2014*. **Polytraits: A database on biological traits of marine polychaetes**. Biodivers Data J. 2014 Jan 17;(2):e1024. doi: 10.3897/BDJ.2.e1024. 
+[Abstract](https://www.ncbi.nlm.nih.gov/pubmed/24855436){:target="_blank"}
+[Full text](https://doi.org/10.3897/BDJ.2.e1024){:target="_blank"}
+<span class="__dimensions_badge_embed__" data-doi="10.3897/BDJ.2.e1024" data-style="small_rectangle"></span>
 
 ### 2013
 
