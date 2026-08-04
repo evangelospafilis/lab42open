@@ -193,6 +193,11 @@ Faulwetter S, Markantonatou V, Pavloudi C, *et al. 2014*. **Polytraits: A databa
 [Full text](https://doi.org/10.3897/BDJ.2.e1024){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.3897/BDJ.2.e1024" data-style="small_rectangle"></span>
 
+Fanini, L., Zampicinini, G., & Pafilis, E. *2014*. **Beach parties: a case study on recreational human use of the beach and its effects on mobile arthropod fauna**. Ethology Ecology & Evolution, 26(1), 69–79. https://doi.org/10.1080/03949370.2013.821674
+[Abstract](https://doi.org/10.1080/03949370.2013.821674){:target="_blank"}
+[Full text](https://doi.org/10.1080/03949370.2013.821674){:target="_blank"}
+<span class="__dimensions_badge_embed__" data-doi="10.1080/03949370.2013.821674" data-style="small_rectangle"></span>
+
 ### 2013
 
 Pafilis E, Pletscher-Frankild S, Fanini L, Faulwetter S, Pavloudi C, Vasileiadou A, Arvanitidis C and Jensen LJ *2013*. **The SPECIES and ORGANISMS resources for fast and accurate identification of taxonomic names in text**. *PLOS ONE*, *8*:e65390.  
