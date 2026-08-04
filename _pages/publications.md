@@ -45,6 +45,12 @@ Waterhouse RM, Adam-Blondon AF, Balech B *et al. 2024*. **The ELIXIR Biodiversit
 [WWW](https://elixir-europe.org/communities/biodiversity){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.12688/f1000research.133724.2" data-style="small_rectangle"></span>
 
+
+Aplakidou E, Vergoulidis N, Chasapi M, Venetsianou NK, Kokoli M, Panagiotopoulou E, Iliopoulos I, Karatzas E, Pafilis E, Georgakopoulos-Soares I, Kyrpides NC, Pavlopoulos GA, Baltoumas FA. *2024*. **Visualizing metagenomic and metatranscriptomic data: A comprehensive review**. Comput Struct Biotechnol J. 2024 May 3;23:2011-2033. doi: 10.1016/j.csbj.2024.04.060.
+[Abstract](https://pubmed.ncbi.nlm.nih.gov/38765606/){:target="_blank"}
+[Full Text](10.1016/j.csbj.2024.04.060){:target="_blank"}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.csbj.2024.04.060" data-style="small_rectangle"></span>
+
 ### 2022
 
 Paragkamian, S., Sarafidou, G., Mavraki, D., Pavloudi, C., Beja, J., Eliezer, M., Lipizer, M., Boicenco, L., Vandepitte, L., Perez-Perez, R., Zafeiropoulos, H., Arvanitidis, C., Pafilis, E., Gerovasileiou, V., *2022*. **Automating the Curation Process of Historical Literature on Marine Biodiversity Using Text Mining: The DECO Workflow**. Frontiers in Marine Science, 9.  [Abstract](https://doi.org/10.3389/fmars.2022.940844) 
