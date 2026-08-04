@@ -64,6 +64,12 @@ Luoma J, Nastou K, Ohta T, Toivonen H, Pafilis E, Jensen LJ, Pyysalo S. *2023*. 
 [WWW](https://jensenlab.org/resources/s1000/){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.1093/bioinformatics/btad369" data-style="small_rectangle"></span>
 
+Kokoli M, Karatzas E, Baltoumas FA, Schneider R, Pafilis E, Paragkamian S, Doncheva NT, Jensen LJ, Pavlopoulos GA. *2023*. **Arena3Dweb: interactive 3D visualization of multilayered networks supporting multiple directional information channels, clustering analysis and application integration**. NAR Genom Bioinform. 2023 May 30;5(2):lqad053. doi: 10.1093/nargab/lqad053.
+[Abstract](https://pubmed.ncbi.nlm.nih.gov/37260509/){:target="_blank"}
+[Full Text](https://doi.org/10.1093/nargab/lqad053){:target="_blank"}
+[WWW](https://arena3d.org/){:target="_blank"}
+<span class="__dimensions_badge_embed__" data-doi="10.1093/nargab/lqad053" data-style="small_rectangle"></span>
+
 ### 2022
 
 Paragkamian, S., Sarafidou, G., Mavraki, D., Pavloudi, C., Beja, J., Eliezer, M., Lipizer, M., Boicenco, L., Vandepitte, L., Perez-Perez, R., Zafeiropoulos, H., Arvanitidis, C., Pafilis, E., Gerovasileiou, V., *2022*. **Automating the Curation Process of Historical Literature on Marine Biodiversity Using Text Mining: The DECO Workflow**. Frontiers in Marine Science, 9.  [Abstract](https://doi.org/10.3389/fmars.2022.940844) 
