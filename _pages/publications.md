@@ -166,6 +166,12 @@ Vasileiadou K, Pavloudi C, Kalantzi I, Apostolaki ET, Chatzigeorgiou G, Chatzini
 [Full text](https://doi.org/10.3897/BDJ.4.e8233){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.3897/BDJ.4.e8233" data-style="small_rectangle"></span>
 
+ten Hoopen P, Amid C, Buttigieg PL, *et al. 2016*. **Value, but high costs in post-deposition data curation**. Database (Oxford). 2016 Feb 9;2016:bav126. doi: 10.1093/database/bav126. 
+26861660
+[Abstract](https://www.ncbi.nlm.nih.gov/pubmed/26861660){:target="_blank"}
+[Full text](https://doi.org/10.1093/database/bav126){:target="_blank"}
+<span class="__dimensions_badge_embed__" data-doi="10.1093/database/bav126" data-style="small_rectangle"></span>
+
 ### 2015
 
 Pafilis E, Pletscher-Frankild S, Schnetzer J, Fanini L, Faulwetter S, Pavloudi C, Vasileiadou V, Leary P, Hammock J, Schulz K, Parr CS, Arvanitidis C and Jensen LJ. *2015**. **ENVIRONMENTS and EOL: identification of Environment Ontology terms in text and the annotation of the Encyclopedia of Life**. *Bioinformatics*, *31*:1872-1874.  
