@@ -229,13 +229,24 @@ O’Donoghue SI, Horn H, Pafilis E, Haag S, Kuhn M, Satagopam VP, Schneider R an
 [Full text](https://doi.org/10.1016/j.websem.2010.03.003){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.websem.2010.03.003" data-style="small_rectangle"></span>
 
+Katayama T, Arakawa K, Nakao M, *et al. 2010*. **The DBCLS BioHackathon: standardization and interoperability for bioinformatics web services and workflows. The DBCLS BioHackathon Consortium**. J Biomed Semantics. 2010 Aug 21;1(1):8. doi: 10.1186/2041-1480-1-8. 
+[Abstract](https://pubmed.ncbi.nlm.nih.gov/20727200/){:target="_blank"}
+[Full text](https://doi.org/10.1186/2041-1480-1-8){:target="_blank"}
+<span class="__dimensions_badge_embed__" data-doi="10.1186/2041-1480-1-8" data-style="small_rectangle"></span>
+
 ### 2009
 
-Pafilis E, O'Donoghue SI, Jensen LJ, Horn H, Kuhn M, Brown NP and Schneider R *2009*. **Reflect: augmented browsing for the life scientist**. *Nature Biotechnology*, *27*:508-510.  
+Pafilis E, O'Donoghue SI, Jensen LJ, Horn H, Kuhn M, Brown NP and Schneider R *2009*. **Reflect: augmented browsing for the life scientist**. *Nature Biotechnology*, *27*:508-510.
 [Abstract](https://www.ncbi.nlm.nih.gov/pubmed/19513049){:target="_blank"}
 [Full text](https://doi.org/10.1038/nbt0609-508){:target="_blank"}
 [WWW](http://reflect.ws){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.1038/nbt0609-508" data-style="small_rectangle"></span>
+
+###2008
+Stockinger H, Attwood T, Chohan SN, *et al. 2008*. **Experience using web services for biological sequence analysis**. Brief Bioinform. 2008 Nov;9(6):493-505. doi: 10.1093/bib/bbn029.
+[Abstract](https://www.ncbi.nlm.nih.gov/pubmed/18621748){:target="_blank"}
+[Full text](https://doi.org/10.1093/bib/bbn029){:target="_blank"}
+<span class="__dimensions_badge_embed__" data-doi="10.1093/bib/bbn029" data-style="small_rectangle"></span>
 
 ## Preprints
 
