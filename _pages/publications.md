@@ -242,7 +242,7 @@ Pafilis E, O'Donoghue SI, Jensen LJ, Horn H, Kuhn M, Brown NP and Schneider R *2
 [WWW](http://reflect.ws){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.1038/nbt0609-508" data-style="small_rectangle"></span>
 
-###2008
+### 2008
 Stockinger H, Attwood T, Chohan SN, *et al. 2008*. **Experience using web services for biological sequence analysis**. Brief Bioinform. 2008 Nov;9(6):493-505. doi: 10.1093/bib/bbn029.
 [Abstract](https://www.ncbi.nlm.nih.gov/pubmed/18621748){:target="_blank"}
 [Full text](https://doi.org/10.1093/bib/bbn029){:target="_blank"}
