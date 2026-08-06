@@ -23,7 +23,7 @@ We accept students on a rolling basis depending on project availability and fund
 To apply, please send an <!-- email --><a href='mailto&#58;paf&#105;&#37;6Cis&#64;h%&#54;3m%7&#50;&#46;&#37;6&#55;r'>
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Tokyoship_email_icon.svg" alt="Email Envelope logo by user Tokyoship via wikimedia commons under CC BY-SA 3.0" style="height: 1.75em;
     margin-bottom: 0;"/></a>
-    with the corresponding subject line:
+    with the subject line:
     <br/>
     `[Join lab42open application] Your Name`
 
