@@ -5,12 +5,13 @@ permalink: /join-us/
 sidebar:
   nav: "join-us"
 ---
-<br/>
-## 🎓 Practical, short term visit, and thesis Opportunities {#opportunities}
+<p></p>
+## 🎓 Study opportunities {#opportunities}
 
 At **lab42open**, we bridge the gap between big biological data and actionable ecological/biodiversity knowledge. We develop open-source tools, deploy workflows, and build text-mining pipelines to understand molecular ecology and biodiversity.
 
-We are looking for motivated students (from Bioinformatics, Computer Science, Data Science, or Biology/Ecology backgrounds) to tackle real-world computational challenges with us.
+We are looking for motivated students (from Bioinformatics, Computer Science, Data Science, or Biology/Ecology backgrounds) to tackle real-world computational challenges with us. 
+Thesis work collaboration is highly encouraged.
 
 ## 🛠 Our Tech Stack at a Glance {#tech-stack}
 
@@ -30,4 +31,4 @@ To apply, please send an <!-- email --><a href='mailto&#58;paf&#105;&#37;6Cis&#6
 **Please attach:**
 1. A brief **CV** (1-2 pages) including a link to your **GitHub / GitLab** profile (if you have one).
 2. A short paragraph (3–5 sentences) explaining **which project track** interests you most and why.
-3. Your expected **start date**, duration, other requirements from your university.
+3. Your expected **start date**, duration,and any specific university requirements.
