@@ -21,3 +21,10 @@ publications:
     url: /publications/#conference-proceedings
   - title: "Book chapters"
     url: /publications/#book-chapters
+
+join-us:
+  - title: "Opportunities"
+    url: /join-us/#opportunities
+- title: "Technology Stack"
+    url: /join-us/#tech-stack
+    
