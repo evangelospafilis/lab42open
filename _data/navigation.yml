@@ -7,6 +7,8 @@ main:
     url: /projects/
   - title: "Publications"
     url: /publications/
+  - title: "Join Us"
+    url: /join-us/
   - title: "Collaborations"
     url: /collaborations/
 
@@ -17,9 +19,5 @@ publications:
     url: /publications/#preprints
   - title: "Conference proceedings"
     url: /publications/#conference-proceedings
-#  - title: "Reviews"
-#    url: /publications/#reviews
-#  - title: "Editorials"
-#    url: /publications/#editorials
   - title: "Book chapters"
     url: /publications/#book-chapters
