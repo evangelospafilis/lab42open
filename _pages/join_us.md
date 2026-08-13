@@ -25,9 +25,9 @@ Thesis work collaboration is highly encouraged.
 * **Ideal Skills:** R/R-shiny, web-based application development and API consumption, basic understanding of biological databases and metadata
 
 ### Track 2: Artificial Intelligence to flag phenomena of interest in biological studies
-* **The Challenge:** Flagging microbiome or biodiversity records with biological/ecological phenomena of interest (e.g. pollution, antimicrobial resistance, anthropogenic impact, pathogen surveillance, biodiversity loss)
-* **Related tasks:** Explore Large Language Models (LLMs) to categorize biological studies according to the phenomena they explore. The [CCMRI](https://ccmri.hcmr.gr) showcases how LLMs have been employed to detect and curate Climate Change related microbiome studies. 
-* **Ideal Skills:** Python, Ollama, LLM libraries, basic understanding of text mining
+* **The Challenge:**Labeling biological/ecological studies according to phenomena of interest they explore (e.g. pollution, antimicrobial resistance, anthropogenic impact, pathogen surveillance, biodiversity loss)
+* **Related tasks:**Breadthen the scope of the [CCMRI](https://ccmri.hcmr.gr) techniques, a project that showcases how LLMs can facilitate the detection curation of Climate Change related microbiome studies.
+* **Ideal Skills:** Python, Ollama, LLMs, BASH scripting, basic understanding of text mining 
 
 <!--
 ### Track 3: 
