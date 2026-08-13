@@ -13,11 +13,7 @@ At **lab42open**, we bridge the gap between big biological data and actionable e
 We are looking for motivated students (from Bioinformatics, Computer Science, Data Science, or Biology/Ecology backgrounds) to tackle real-world computational challenges with us. 
 Thesis work collaboration is highly encouraged.
 
-## 🛠 Our tech ttack at a glance {#tech-stack}
-
-`Python` • `R` • `Perl` • `Gawk` • `Linux HPC` • `Git / GitHub` • `R Shiny`
-
-## 🔬 Research tracks {#research-tracks}
+## 🔬 Open research tracks {#research-tracks}
 
 ### Track 1: Biological databases and interactive visualization
 * **The Challenge:** Creating interactive tools to ease access to key biodiversity and molecular ecology data
@@ -30,11 +26,13 @@ Thesis work collaboration is highly encouraged.
 * **Ideal Skills:** Python, Ollama, LLMs, BASH scripting, basic understanding of text mining 
 
 <!--
-### Track 3: 
-* **Ideal Skills:** Python, NLP libraries, basic understanding of graph databases.
-Exploring microbial protein families in the CCMRI microbiomes (in collaboration with Dr. Georgios Pavlopoulos lab, Fleming, Athens)
-Extracting key traits (like life stages, eating habits, morphology, reproduction strategy, …) of marine species out of biodiversity records and literature 
+Track 3: Explore the biochemistry of Climate Change related microbiome studies
+Track 4: Extracting key traits (like life stages, eating habits, morphology, reproduction strategy, …) of marine species out of biodiversity records and literature 
+Track 5: Biotic interaction extraction from the biodiversity literature
 -->
+## 🛠 Our tech stack at a glance {#tech-stack}
+
+`Python` • `R` • `Perl` • `Gawk` • `Linux HPC` • `Git / GitHub` • `R Shiny`
 
 ## 🎯 How to apply {#how-to-apply}
 

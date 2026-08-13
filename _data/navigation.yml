@@ -25,10 +25,10 @@ publications:
 join-us:
   - title: "Opportunities"
     url: /join-us/#opportunities
-  - title: "Technology stack"
-    url: /join-us/#tech-stack
   - title: "Research tracks"
     url: /join-us/#research-tracks
+  - title: "Technology stack"
+    url: /join-us/#tech-stack
   - title: "How to apply"
     url: /join-us/#how-to-apply
 
