@@ -22,18 +22,18 @@ Thesis work collaboration is highly encouraged.
 ### Track 1: Biological databases and interactive visualization
 * **The Challenge:** Creating interactive tools to ease access to key biodiversity and molecular ecology data
 * **Related tasks:** Extend [Odyssey](https://biodataanalysisgroup.github.io/ELIXIR-BFSP-Odyssey/), an R shiny application for the exploration of Molecular Biodiversity in Greece and Norway
-* **Ideal Skills:** R/R-shiny, web-based application development and API consumption, basic understanding of biological databases
+* **Ideal Skills:** R/R-shiny, web-based application development and API consumption, basic understanding of biological databases and metadata
+
+### Track 2: Artificial Intelligence to flag phenomena of interest in biological studies
+* **The Challenge:** Flagging microbiome or biodiversity records with biological/ecological phenomena of interest (e.g. pollution, antimicrobial resistance, anthropogenic impact, pathogen surveillance, biodiversity loss)
+* **Related tasks:** Explore Large Language Models (LLMs) to categorize biological studies according to the phenomena they explore. The [CCMRI](https://ccmri.hcmr.gr) showcases how LLMs have been employed to detect and curate Climate Change related microbiome studies. 
+* **Ideal Skills:** Python, Ollama, LLM libraries, basic understanding of text mining
 
 <!--
-### Track 2: Text-Mining & Knowledge Graphs (PREGO Ecosystem)
-* **The Challenge:** Scaling text-mining algorithms to extract hidden associations between organisms, biological processes, and environments from millions of scientific abstracts.
-* **What you will do:** Optimize entity-recognition pipelines, explore Large Language Models (LLMs) for semantic parsing, or design novel network queries in Neo4j.
+### Track 3: 
 * **Ideal Skills:** Python, NLP libraries, basic understanding of graph databases.
-
-### Track 3: Microbial Ecology Data Mining
-* **The Challenge:** Interpreting massive public metagenomic and amplicon sequencing datasets to reveal global biodiversity patterns.
-* **What you will do:** Deploy PEMA on massive target datasets, apply advanced multivariate statistical methods in R or Python, and build interactive visualization dashboards.
-* **Ideal Skills:** R or Python, basic microbial ecology concepts, data visualization (ggplot2/Plotly).
+Exploring microbial protein families in the CCMRI microbiomes (in collaboration with Dr. Georgios Pavlopoulos lab, Fleming, Athens)
+Extracting key traits (like life stages, eating habits, morphology, reproduction strategy, …) of marine species out of biodiversity records and literature 
 -->
 
 ## 🎯 How to apply {#how-to-apply}
