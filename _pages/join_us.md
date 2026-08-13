@@ -32,7 +32,7 @@ Track 5: Biotic interaction extraction from the biodiversity literature
 -->
 ## 🛠 Our tech stack at a glance {#tech-stack}
 
-`Python` • `R` • `Perl` • `Gawk` • `Linux HPC` • `Git / GitHub` • `R Shiny`
+`Python` • `R` • `Ollama` • `LLMs` • `Gawk` • `Linux HPC` • `Git / GitHub` • `R Shiny`
 
 ## 🎯 How to apply {#how-to-apply}
 
@@ -46,6 +46,6 @@ To apply, please send an <!-- email --><a href='mailto&#58;paf&#105;&#37;6Cis&#6
     `[Join lab42open application] Your Name`
 
 **Please attach:**
-1. A brief **CV** (1-2 pages) including a link to your **GitHub / GitLab** profile (if you have one).
+1. A brief **CV** (1-2 pages)
 2. A short paragraph (3–5 sentences) explaining **which research track** interests you most and why.
 3. Your expected **start date**, duration,and any specific university requirements.
