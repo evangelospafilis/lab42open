@@ -18,12 +18,12 @@ Thesis work collaboration is highly encouraged.
 ### Track 1: Biological databases and interactive visualization
 * **The Challenge:** Creating interactive tools to ease access to key biodiversity and molecular ecology data
 * **Related tasks:** Extend [Odyssey](https://biodataanalysisgroup.github.io/ELIXIR-BFSP-Odyssey/), an R shiny application for the exploration of Molecular Biodiversity in Greece and Norway
-* **Ideal Skills:** R/R-shiny, web-based application development and API consumption, basic understanding of biological databases and metadata
+* **Ideal Skills:** `R`/`R-shiny`, web-based application development and API consumption, basic understanding of biological databases and metadata
 
 ### Track 2: Artificial Intelligence to flag phenomena of interest in biological studies
 * **The Challenge:**Labeling biological/ecological studies according to phenomena of interest they explore (e.g. pollution, antimicrobial resistance, anthropogenic impact, pathogen surveillance, biodiversity loss)
 * **Related tasks:**Broaden the scope of the [CCMRI](https://ccmri.hcmr.gr) techniques, a project that showcases how LLMs can facilitate the detection curation of Climate Change related microbiome studies.
-* **Ideal Skills:** Python, Ollama, LLMs, BASH scripting, basic understanding of text mining 
+* **Ideal Skills:** `Python`, `Ollama`, `LLMs`, `BASH`/`gawk` scripting, basic understanding of text mining 
 
 <!--
 Track 3: Explore the biochemistry of Climate Change related microbiome studies
@@ -32,7 +32,7 @@ Track 5: Biotic interaction extraction from the biodiversity literature
 -->
 ## 🛠 Our tech stack at a glance {#tech-stack}
 
-`Python` • `R` • `Ollama` • `LLMs` • `Gawk` • `Linux HPC` • `Git / GitHub` • `R Shiny`
+`Python` • `R` • `R Shiny`• `Ollama` • `LLMs` • `Gawk` • `Linux HPC` • `Git / GitHub`
 
 ## 🎯 How to apply {#how-to-apply}
 
