@@ -21,11 +21,10 @@ Thesis work collaboration is highly encouraged.
 
 ### Track 1: Biological databases and interactive visualization
 * **The Challenge:** Creating interactive tools to ease access to key biodiversity and molecular ecology data
-* **Related projects:** see the Odyssey project as an example
-* **Ideal Skills:** Linux/Bash scripting, web-based development, R-shiny
+* **Related tasks:** Extend [Odyssey](https://biodataanalysisgroup.github.io/ELIXIR-BFSP-Odyssey/), an R shiny application for the exploration of Molecular Biodiversity in Greece and Norway
+* **Ideal Skills:** R/R-shiny, web-based application development and API consumption, basic understanding of biological databases
 
-
-<!-- 
+<!--
 ### Track 2: Text-Mining & Knowledge Graphs (PREGO Ecosystem)
 * **The Challenge:** Scaling text-mining algorithms to extract hidden associations between organisms, biological processes, and environments from millions of scientific abstracts.
 * **What you will do:** Optimize entity-recognition pipelines, explore Large Language Models (LLMs) for semantic parsing, or design novel network queries in Neo4j.
