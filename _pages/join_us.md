@@ -22,7 +22,7 @@ Thesis work collaboration is highly encouraged.
 
 ### Track 2: Artificial Intelligence to flag phenomena of interest in biological studies
 * **The Challenge:**Labeling biological/ecological studies according to phenomena of interest they explore (e.g. pollution, antimicrobial resistance, anthropogenic impact, pathogen surveillance, biodiversity loss)
-* **Related tasks:**Breadthen the scope of the [CCMRI](https://ccmri.hcmr.gr) techniques, a project that showcases how LLMs can facilitate the detection curation of Climate Change related microbiome studies.
+* **Related tasks:**Broaden the scope of the [CCMRI](https://ccmri.hcmr.gr) techniques, a project that showcases how LLMs can facilitate the detection curation of Climate Change related microbiome studies.
 * **Ideal Skills:** Python, Ollama, LLMs, BASH scripting, basic understanding of text mining 
 
 <!--
