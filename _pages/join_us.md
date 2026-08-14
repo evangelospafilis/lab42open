@@ -20,12 +20,12 @@ Thesis work collaboration is highly encouraged.
 * **Related tasks:** Extend [Odyssey](https://biodataanalysisgroup.github.io/ELIXIR-BFSP-Odyssey/), an R shiny application for the exploration of Molecular Biodiversity in Greece and Norway
 * **Ideal Skills:** `R`/`R-shiny`, web-based application development and API consumption, basic understanding of biological databases and metadata
 
-### Track 2: Artificial Intelligence to flag phenomena of interest in biological studies {#AI-biological-studies-phenomena of interest}
+### Track 2: Artificial Intelligence to flag phenomena of interest in biological studies {#AI-biological-studies-phenomena-of-interest}
 * **The Challenge:**Labeling biological/ecological studies according to phenomena of interest they explore (e.g. pollution, antimicrobial resistance, anthropogenic impact, pathogen surveillance, biodiversity loss)
 * **Related tasks:**Broaden the scope of the [CCMRI](https://ccmri.hcmr.gr) techniques, a project that showcases how LLMs can facilitate the detection curation of Climate Change related microbiome studies.
 * **Ideal Skills:** `Python`, `Ollama`, `LLMs`, `BASH`/`gawk` scripting, basic understanding of text mining 
 
-### Track 3: Autonomous AI agents for global microbial metabolic mapping under climate change {#AI-climate change-microbial metabolism}
+### Track 3: Autonomous AI agents for global microbial metabolic mapping under climate change {#AI-climate-change-microbial-metabolism}
 * **The Challenge:** Integrating highly heterogeneous functional and pathway data across diverse microbiome studies to visualize the global metabolic response to climate change.
 * **Related tasks:** 
     * Develop multi-agent LLM frameworks to parse curated CCMRI studies.
