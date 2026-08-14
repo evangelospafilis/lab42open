@@ -28,11 +28,11 @@ join-us:
   - title: "Research tracks"
     url: /join-us/#research-tracks
     children:
-      - title: "Databases and visualization"
+      - title: "Data & Visualization"
         url: /join-us/#databases-and-visualization
-      - title: "AI, biological-studies, phenomena of interest"
+      - title: "AI in Biology"
         url: /join-us/#AI-biological-studies-phenomena-of-interest
-      - title: "Agents, microbial metabolic mapping, climate change"
+      - title: "Agents, microbes, climate change"
         url: /join-us/#AI-climate-change-microbial-metabolism
   - title: "Technology stack"
     url: /join-us/#tech-stack
