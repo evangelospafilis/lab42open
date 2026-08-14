@@ -25,8 +25,15 @@ publications:
 join-us:
   - title: "Opportunities"
     url: /join-us/#opportunities
+    
   - title: "Research tracks"
     url: /join-us/#research-tracks
+      - title: "Databases and visualization"
+        url: /join-us/#databases-and-visualization
+      - title: "AI, biological-studies, phenomena of interest"
+        url: /join-us/#AI-biological-studies-phenomena of interest
+      - title: "Agents, microbial metabolic mapping, climate change"
+        url: /join-us/#AI-climate change-microbial metabolism
   - title: "Technology stack"
     url: /join-us/#tech-stack
   - title: "How to apply"
