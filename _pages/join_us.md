@@ -25,8 +25,21 @@ Thesis work collaboration is highly encouraged.
 * **Related tasks:**Broaden the scope of the [CCMRI](https://ccmri.hcmr.gr) techniques, a project that showcases how LLMs can facilitate the detection curation of Climate Change related microbiome studies.
 * **Ideal Skills:** `Python`, `Ollama`, `LLMs`, `BASH`/`gawk` scripting, basic understanding of text mining 
 
+### Track 3: Autonomous AI agents for global microbial metabolic mapping under climate change
+* **The Challenge:** Integrating highly heterogeneous functional and pathway data across diverse microbiome studies to visualize the global metabolic response to climate change.
+* **Related tasks:** 
+    * Develop multi-agent LLM frameworks to parse curated CCMRI studies.
+    * Extract and normalize metabolic pathway data (e.g., KEGG, MetaCyc).
+    * Build an interactive global pathway atlas mapping microbial metabolism.
+    * Highlight category-specific metabolic shifts across climate change scenarios.
+* **Ideal Skills:** 
+    * `Python`
+    * LLM inference engine and orchestration frameworks (e.g. `Ollama` and `PicoClaw`)
+    * RAG (Retrieval-Augmented Generation) architectures
+    * API integration with biological databases (KEGG, MGnify).
+    * Graph networks or interactive data visualization tools.
+
 <!--
-Track 3: Explore the biochemistry of Climate Change related microbiome studies
 Track 4: Extracting key traits (like life stages, eating habits, morphology, reproduction strategy, …) of marine species out of biodiversity records and literature 
 Track 5: Biotic interaction extraction from the biodiversity literature
 -->
