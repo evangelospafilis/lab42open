@@ -7,8 +7,8 @@ permalink: /projects/
   [**Odyssey**](https://biodataanalysisgroup.github.io/ELIXIR-BFSP-Odyssey/){:target="_blank"} ([github](https://github.com/BiodataAnalysisGroup/ELIXIR-BFSP-Odyssey){:target="_blank"}, [training](https://biodataanalysisgroup.github.io/ELIXIR-BFSP-Odyssey-Lesson/){:target="_blank"}): an R shiny application for the exploration of Molecular Biodiversity in Greece and Norway
   
   [**CCMRI**](http://ccmri.hcmr.gr){:target="_blank"} ([doi](https://doi.org/10.1038/s41598-026-51914-z){:target="_blank"}): Climate Change Metagenomic Record Index (CCMRI): a dynamic researcher-notification and sample classification system
-
-  [**ISD & ISME**](https://genomicsstandardsconsortium.github.io/isd-crete-website){:target="_blank"} ([doi](https://doi.org/10.1038/s41598-026-51914-z)): The Crete **I**sland **S**ampling *D*ay: a Crete-island-wide, single-day soil collection study exploring the environmental drivers of microbial diversity; and its broader follow up in the Crete and Moorea islands: the **IS**land **M**icrobiome **E**ncyclopedia. In collaboration with the [Genomic Standard Consortium](https://www.gensc.org/) and the [Joint Genome Institute](https://jgi.doe.gov/). 
+  
+  [**ISD & ISME**](https://genomicsstandardsconsortium.github.io/isd-crete-website){:target="_blank"} ([doi](https://doi.org/10.1038/s41598-026-51914-z)): The Crete **I**sland **S**ampling **D**ay: a Crete-island-wide, single-day soil study that explored the environmental drivers of microbial diversity and its international follow up in the Crete and Moorea (French Polynesia) islands: the **IS**land **M**icrobiome **E**ncyclopedia. These effort are conducted in collaboration with the [Genomic Standard Consortium](https://www.gensc.org/) and the [Joint Genome Institute](https://jgi.doe.gov/).
   
   [**PREGO**](https://prego.hcmr.gr){:target="_blank"} ([doi](https://doi.org/10.3390/microorganisms10020293){:target="_blank"}): a literature and data-mining resource to associate microorganisms, biological processes, and environment types
   
