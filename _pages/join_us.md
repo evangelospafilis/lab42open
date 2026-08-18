@@ -17,12 +17,12 @@ Thesis work collaboration is highly encouraged.
 
 ### Track 1: Biological databases and interactive visualization {#databases-and-visualization}
 * **The Challenge:** Creating interactive tools to ease access to key biodiversity and molecular ecology data
-* **Related tasks:** Extend [Odyssey](https://biodataanalysisgroup.github.io/ELIXIR-BFSP-Odyssey/), an R shiny application for the exploration of Molecular Biodiversity in Greece and Norway
+* **Related tasks:** Extend [Odyssey](https://biodataanalysisgroup.github.io/ELIXIR-BFSP-Odyssey/){:target="_blank"}, an R shiny application for the exploration of Molecular Biodiversity in Greece and Norway
 * **Ideal Skills:** `R`/`R-shiny`, web-based application development and API consumption, basic understanding of biological databases and metadata
 
 ### Track 2: Artificial Intelligence to flag phenomena of interest in biological studies {#AI-biological-studies-phenomena-of-interest}
 * **The Challenge:**Labeling biological/ecological studies according to phenomena of interest they explore (e.g. pollution, antimicrobial resistance, anthropogenic impact, pathogen surveillance, biodiversity loss)
-* **Related tasks:**Broaden the scope of the [CCMRI](https://ccmri.hcmr.gr) techniques, a project that showcases how LLMs can facilitate the detection curation of Climate Change related microbiome studies.
+* **Related tasks:**Broaden the scope of the [CCMRI](https://ccmri.hcmr.gr){:target="_blank"} techniques, a project that showcases how LLMs can facilitate the detection curation of Climate Change related microbiome studies.
 * **Ideal Skills:** `Python`, `Ollama`, `LLMs`, `BASH`/`gawk` scripting, basic understanding of text mining 
 
 ### Track 3: AI agents for global microbial metabolic mapping under climate change {#AI-climate-change-microbial-metabolism}
