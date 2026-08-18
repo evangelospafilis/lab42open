@@ -1,12 +1,11 @@
 ---
-title: People
+title: "People"
 layout: single
 permalink: /people/
 ---
 
 ## Group leader
-![Portrait of EvangelosPafilis](people_evangelospafilis.jpg)  
-[Evangelos Pafilis](evangelospafilis) 
+[Evangelos Pafilis](evangelospafilis) <a href="https://orcid.org/0000-0001-5079-0125" aria-label="View ORCID record - 0000-0001-5079-0125"> <img src="images/orcid.svg" alt="ORCID iD"/>https://orcid.org/0000-0001-5079-0125</a>
 
 ## Current group members
 - [Savvas Paragkamian](savvas-paragkamian)
