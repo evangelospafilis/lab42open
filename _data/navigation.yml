@@ -38,3 +38,11 @@ join-us:
     url: /join-us/#tech-stack
   - title: "How to apply"
     url: /join-us/#how-to-apply
+    
+join-us:
+  - title: "Collaborators"
+    url: /collaborations/#scientific-collaborators
+    title: "Communities"
+    url: /collaborations/#research-communities
+    title: "Teaching"
+    url: /collaborations/#teaching
