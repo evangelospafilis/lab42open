@@ -42,7 +42,7 @@ join-us:
 collaborations:
   - title: "Collaborators"
     url: /collaborations/#scientific-collaborators
-    title: "Communities"
+  - title: "Communities"
     url: /collaborations/#research-communities
-    title: "Teaching"
+  - title: "Teaching"
     url: /collaborations/#teaching
