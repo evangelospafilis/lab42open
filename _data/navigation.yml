@@ -9,7 +9,7 @@ main:
     url: /publications/
   - title: "Join Us"
     url: /join-us/
-  - title: "Collaborations"
+  - title: "Collaborations & Training"
     url: /collaborations/
 
 publications:
@@ -39,7 +39,7 @@ join-us:
   - title: "How to apply"
     url: /join-us/#how-to-apply
     
-join-us:
+collaborations:
   - title: "Collaborators"
     url: /collaborations/#scientific-collaborators
     title: "Communities"
