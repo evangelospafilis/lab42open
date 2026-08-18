@@ -4,8 +4,8 @@ layout: single
 permalink: /people/
 ---
 
-## Group leader
-[Evangelos Pafilis](evangelospafilis){:target="_blank"} (<a href="https://orcid.org/0000-0001-5079-0125" target="_blank" aria-label="View ORCID record - 0000-0001-5079-0125">0000-0001-5079-0125
+## Principal investigator
+- [Evangelos Pafilis](evangelospafilis){:target="_blank"} (<a href="https://orcid.org/0000-0001-5079-0125" target="_blank" aria-label="View ORCID record - 0000-0001-5079-0125">0000-0001-5079-0125
 <img src="/images/orcid.svg" alt="ORCID iD" style="height: 1.25em; padding-left: .25em;"/></a>)
 
 ## Current group members
@@ -29,7 +29,7 @@ permalink: /people/
 - [Savvas Paragkamian](savvas-paragkamian){:target="_blank"} (<a href="https://orcid.org/0000-0002-8508-2521" target="_blank" aria-label="View ORCID record - 0000-0002-8508-2521">0000-0002-8508-2521
 <img src="/images/orcid.svg" alt="ORCID iD" style="height: 1.25em; padding-left: .25em;"/></a>)
 
-- [Antonis Potirakis](https://imbbc.hcmr.gr/user/potant/) [LinkedIn](https://gr.linkedin.com/in/antonis-potirakis)
+- Antonis Potirakis ([LinkedIn](https://gr.linkedin.com/in/antonis-potirakis){:target="_blank"})
 
 - [Anastasia Gioti](https://scholar.google.com/citations?user=eMsnakoAAAAJ&hl=en&oi=ao){:target="_blank"} (<a href="https://orcid.org/0000-0001-8680-5974" target="_blank" aria-label="View ORCID record - 0000-0001-8680-5974">0000-0001-8680-5974
 <img src="/images/orcid.svg" alt="ORCID iD" style="height: 1.25em; padding-left: .25em;"/></a>)
@@ -46,6 +46,6 @@ permalink: /people/
 - Rania Theologi (<a href="https://orcid.org/0009-0008-5229-4430" target="_blank" aria-label="View ORCID record - 0009-0008-5229-4430">0009-0008-5229-4430
 <img src="/images/orcid.svg" alt="ORCID iD" style="height: 1.25em; padding-left: .25em;"/></a>)
 
-- [Miguel Desmarais](https://www.researchgate.net/profile/Miguel_Desmarais){:target="_blank"} (<a href="https://orcid.org/0000-0002-8240-8629" target="_blank" aria-label="View ORCID record - 0000-0002-8240-8629">0000-0002-8240-8629
+- Miguel Desmarais (<a href="https://orcid.org/0000-0002-8240-8629" target="_blank" aria-label="View ORCID record - 0000-0002-8240-8629">0000-0002-8240-8629
 <img src="/images/orcid.svg" alt="ORCID iD" style="height: 1.25em; padding-left: .25em;"/></a>)
 > July - August 2020, Supported by: [Int/nal Master of Science in Environmental Technology and Engineering(IMETE)](https://www.imete.eu/)
