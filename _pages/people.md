@@ -9,7 +9,7 @@ permalink: /people/
 <img src="/images/orcid.svg" alt="ORCID iD" style="height: 1.25em; padding-left: .25em;"/></a>)
 
 ## Current group members
-- Christina Damianou (<a href="https://orcid.org/0009-0003-0926-0183" target="_blank" aria-label="View ORCID record - 0009-0003-0926-0183">0009-0003-0926-0183
+- [Christina Damianou](https://www.researchgate.net/profile/Christina-Damianou){:target="_blank"} (<a href="https://orcid.org/0009-0003-0926-0183" target="_blank" aria-label="View ORCID record - 0009-0003-0926-0183">0009-0003-0926-0183
 <img src="/images/orcid.svg" alt="ORCID iD" style="height: 1.25em; padding-left: .25em;"/></a>)
 
 ## Alumni & visitors
