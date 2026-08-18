@@ -10,10 +10,22 @@ sidebar:
 
 ## 🔬 Scientific collaborators {#scientific-collaborators}
 
-* **Dr. Lars Juhl Jensen**, Copenhagen, Denmark
-* **Dr. Vincenzo Lagani**, KAUST, Saudi Arabia 
-* **Dr. Lynn Schriml**, Maryland, US 
-* **Dr. Christos Arvanitidis**, LifeWatch ERIC, Sevilla, Spain
+
+* [Dr. Lars Juhl Jensen](https://scholar.google.com/citations?user=zXAyIo0AAAAJ){:target="_blank"} [lab](https://jensenlab.org/){:target="_blank"} Copenhagen, Denmark
+(<a href="0000-0001-7885-715X" target="_blank" aria-label="View ORCID record - 0000-0001-7885-715X">0000-0001-7885-715X
+<img src="/images/orcid.svg" alt="ORCID iD" style="height: 1.25em; padding-left: .25em;"/></a>)
+
+* [Dr. Vincenzo Lagani](https://scholar.google.com/citations?user=M39Yg-cAAAAJ){:target="_blank"} [LinkedIn](https://sa.linkedin.com/in/vincenzo-lagani){:target="_blank"} Thuwal, Saudi Arabia
+(<a href="0000-0002-6552-6076" target="_blank" aria-label="View ORCID record - 0000-0002-6552-6076">0000-0002-6552-6076
+<img src="/images/orcid.svg" alt="ORCID iD" style="height: 1.25em; padding-left: .25em;"/></a>)
+
+* [Dr. Lynn Schriml](https://scholar.google.com/citations?user=WvIVTvcAAAAJ){:target="_blank"} [LinkedIn](https://www.linkedin.com/in/lynn-schriml-1753609){:target="_blank"} Maryland, US 
+(<a href="0000-0001-8910-9851" target="_blank" aria-label="View ORCID record - 0000-0001-8910-9851">0000-0001-8910-9851
+<img src="/images/orcid.svg" alt="ORCID iD" style="height: 1.25em; padding-left: .25em;"/></a>)
+
+* [Dr. Christos Arvanitidis] (https://scholar.google.com/citations?user=7G11xaMAAAAJ){:target="_blank"} [LifeWatch ERIC](https://www.lifewatch.eu/profile/christos-arvanitidis-lifewatcheric-team/){:target="_blank"} LifeWatch ERIC, Sevilla, Spain 
+(<a href="0000-0002-6924-5255" target="_blank" aria-label="View ORCID record - 0000-0002-6924-5255">0000-0002-6924-5255
+<img src="/images/orcid.svg" alt="ORCID iD" style="height: 1.25em; padding-left: .25em;"/></a>)
 
 * **Dr. Aristotelis Papageorgiou, DUTH, Alexandroupoli, Greece
 * **Dr. Georgios Pavlopoulos** [lab](), Athens, Greece
