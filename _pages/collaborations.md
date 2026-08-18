@@ -3,7 +3,7 @@ title: "Collaborations, networks, and training"
 layout: single
 permalink: /collaborations/
 sidebar:
-  nav: "join-us"
+  nav: "collaborations"
 ---
 
 # 🚧🛠️ Work in progress: - this page is under development, apologies for any interim omissions
@@ -11,7 +11,7 @@ sidebar:
 ## 🔬 Scientific collaborators {#scientific-collaborators}
 
 * **Dr. Lars Juhl Jensen**, Copenhagen, Denmark
-* **Dr. Vincenzo Lagani**, KAUST 
+* **Dr. Vincenzo Lagani**, KAUST, Saudi Arabia 
 * **Dr. Lynn Schriml**, Maryland, US 
 * **Dr. Christos Arvanitidis**, LifeWatch ERIC, Sevilla, Spain
 
