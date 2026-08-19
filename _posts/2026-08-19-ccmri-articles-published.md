@@ -28,3 +28,11 @@ doi: 10.1007/s00248-026-02730-5.
 <span class="__dimensions_badge_embed__" data-doi="10.1007/s00248-026-02730-5" data-style="small_rectangle"></span>
 
 
+<!-- citation badge, enable javascript-->
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+**Tagged under:**
+{% for tag in page.tags %}
+  <a href="/news/tags/#{{ tag | slugify }}" class="btn btn--inverse btn--small" style="margin-right: 4px; padding: 4px 8px;">#{{ tag }}</a>
+{% endfor %}
