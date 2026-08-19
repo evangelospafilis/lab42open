@@ -1,11 +1,10 @@
 ---
 title: "CCMRI articles published, dive in to find out more"
-last_modified_at: 2026-10-19
+last_modified_at: 2026-08-19
 layout: single
 ---
 
-🚧🛠️ Work in progress: - this page is under development, apologies for any interim omission
-
+**🚧🛠️ Work in progress: - this page is under development, apologies for any interim omission**
 
 CCMRI papers are out :)
 
