@@ -6,7 +6,7 @@ sidebar:
   nav: "collaborations"
 ---
 
-# 🚧🛠️ Work in progress: - this page is under development, apologies for any interim omissions
+<!-- 🚧🛠️ Work in progress: - this page is under development, apologies for any interim omissions-->
 
 ## 🔬 Scientific collaborators {#scientific-collaborators}
 
