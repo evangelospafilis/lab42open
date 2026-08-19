@@ -42,7 +42,14 @@ join-us:
 collaborations:
   - title: "Collaborators"
     url: /collaborations/#scientific-collaborators
-  - title: "Communities"
+        children:
+      - title: "International"
+        url: /collaborations/#international-collaborators
+      - title: "National"
+        url: /collaborations/#national-collaborators
+      - title: "HCMR"
+        url: /collaborations/#hcmr-collaborators
+    title: "Communities"
     url: /collaborations/#research-communities
   - title: "Teaching"
     url: /collaborations/#teaching

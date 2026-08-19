@@ -10,6 +10,7 @@ sidebar:
 
 ## 🔬 Scientific collaborators {#scientific-collaborators}
 
+### International {#international-collaborators}
 
 * [Dr. Lars Juhl Jensen](https://scholar.google.com/citations?user=zXAyIo0AAAAJ){:target="_blank"} ([lab](https://jensenlab.org/){:target="_blank"}) Copenhagen, Denmark
 (<a href="https://orcid.org/0000-0001-7885-715X" target="_blank" aria-label="View ORCID record - 0000-0001-7885-715X">0000-0001-7885-715X
@@ -27,6 +28,8 @@ sidebar:
 (<a href="https://orcid.org/0000-0002-6924-5255" target="_blank" aria-label="View ORCID record - 0000-0002-6924-5255">0000-0002-6924-5255
 <img src="/images/orcid.svg" alt="ORCID iD" style="height: 1.25em; padding-left: .25em;"/></a>)
 
+### National {#national-collaborators}
+
 * [Dr. Aristotelis C. Papageorgiou](https://scholar.google.com/citations?user=mCd0oQ0AAAAJ){:target="_blank"} ([ResearchGate](https://www.researchgate.net/profile/Aristotelis-Papageorgiou){:target="_blank"}) Alexandroupoli, Greece
 (<a href="https://orcid.org/0000-0001-6657-7820" target="_blank" aria-label="View ORCID record - 0000-0001-6657-7820">0000-0001-6657-7820
 <img src="/images/orcid.svg" alt="ORCID iD" style="height: 1.25em; padding-left: .25em;"/></a>)
@@ -39,8 +42,10 @@ sidebar:
 (<a href="https://orcid.org/0000-0002-0222-4273" target="_blank" aria-label="View ORCID record - 0000-0002-0222-4273">0000-0002-0222-4273
 <img src="/images/orcid.svg" alt="ORCID iD" style="height: 1.25em; padding-left: .25em;"/></a>)
 
-* **Dr. Ioulia Santi & Dr. Melina Stavroulaki** *et al*. [EMBRC Greece]() and [DTO Bioflow]() infrastucture and project, HCMR, Crete, Greece
-* **Dr. Anastasia Tsiola** *et al*. **Consortia** project, HCMR, Crete, Greece
+### In the Hellenic Centre for Marine Research {#hcmr-collaborators}
+
+* [Dr. Ioulia Santi](https://imbbc.hcmr.gr/user/isanti/) & [Dr. Melina Stavroulaki](https://imbbc.hcmr.gr/user/mstavroulaki/) *et al*. Establishing the Greek node of the European Marine Biological Resource Centre research infrastructure ((https://embrc.gr/){:target="_blank"}) and contributing to the biological information channel of the Digital Twin of the Ocean ([DTO Bioflow](https://dto-bioflow.eu/))
+* **Dr. Anastasia Tsiola** *et al*. Exploring coral and sponge viromes from samples collected in Greece as part of the **Consortia** project
 
 ## 🌐 Research communities {#research-communities}
 
