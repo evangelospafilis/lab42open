@@ -56,6 +56,6 @@ sidebar:
 
 ## 🎓 Academic Lectures & Teaching {#teaching}
 
-* [University of Crete - MSc in Bioinformatics](https://bioinfo-grad.gr/en/){:target="_blank"} 
+* [University of Crete - MSc in Bioinformatics](https://bioinfo-grad.gr/en/){:target="_blank"}
 * [National and Kapodistrian University of Athens - Msc in Bioinformatics - Computational Biology](https://msc-bioinformatics.biol.uoa.gr/){:target="_blank"} 
-* [Democritus University of Thrace - MSc in Applied Bioinformatics Biological Data Analysis](https://duth.gr/en/postgraduate/applied-bioinformatics-biological-data-analysis/){:target="_blank"} 
+* [Democritus University of Thrace - MSc in Applied Bioinformatics Biological Data Analysis](https://bioinfo.mbg.duth.gr/new-web/en/homepage/){:target="_blank"} 
