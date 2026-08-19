@@ -32,9 +32,8 @@ doi: 10.1007/s00248-026-02730-5.
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 ---
-<!-- **Tagged under:** --> 
-{% for tag in page.tags %}
-  <a href="/news/tags/#{{ tag | slugify }}" class="btn btn--inverse btn--small" style="margin-right: 4px; padding: 4px 8px; display: inline-block;">#{{ tag }}</a>
-{% endfor %}
+<!-- **Tagged under:** -->
+<!-- note: keep the following snippet as one-liner -->
+{% for tag in page.tags %}<a href="/news/tags/#{{ tag | slugify }}" class="btn btn--inverse btn--small" style="margin-right: 4px; padding: 4px 8px; display: inline-block;">#{{ tag }}</a>{% endfor %}
   
 
