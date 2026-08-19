@@ -6,6 +6,14 @@ plugins:
 
 remote_theme: "mmistakes/minimal-mistakes"
 
+defaults:
+# _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+
 # Google Analytics Tracker added, according to instruction in https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 analytics:
   provider: "google-gtag"

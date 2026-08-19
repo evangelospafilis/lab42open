@@ -11,6 +11,8 @@ main:
     url: /join-us/
   - title: "Collaborations & Training"
     url: /collaborations/
+  - title: "News"
+    url: /news/
 
 publications:
   - title: "Research articles"
