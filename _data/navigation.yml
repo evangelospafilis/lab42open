@@ -42,7 +42,7 @@ join-us:
 collaborations:
   - title: "Collaborators"
     url: /collaborations/#scientific-collaborators
-        children:
+    children:
       - title: "International"
         url: /collaborations/#international-collaborators
       - title: "National"
