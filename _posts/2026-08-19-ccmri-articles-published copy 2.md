@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: splash
 title: "CCMRI articles published, dive in to find out more"
 date: 2026-08-19
 categories: news
