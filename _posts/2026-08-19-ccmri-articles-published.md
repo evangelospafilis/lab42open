@@ -1,6 +1,6 @@
 ---
-title: "PREGO article published at MDPI Microorganisms Special Issue of the 9th Conference of Mikrobiokosmos"
-last_modified_at: 2022-01-26
+title: "CCMRI articles published, dive in to find out more"
+last_modified_at: 2026-10-19
 layout: single
 ---
 
