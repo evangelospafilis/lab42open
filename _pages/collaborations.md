@@ -44,14 +44,21 @@ sidebar:
 
 ### In the Hellenic Centre for Marine Research {#hcmr-collaborators}
 
-* [Dr. Ioulia Santi](https://imbbc.hcmr.gr/user/isanti/){:target="_blank"} & [Dr. Melina Stavroulaki](https://imbbc.hcmr.gr/user/mstavroulaki/){:target="_blank"} *et al*. Establishing the [Greek node](https://embrc.gr/]{:target="_blank"}) of the [European Marine Biological Resource Centre](https://www.embrc.eu/){:target="_blank"} research infrastructure and contributing to the biological information channel of the Digital Twin of the Ocean ([DTO Bioflow](https://dto-bioflow.eu/)){:target="_blank"}
-* [Dr. Anastasia Tsiola](https://www.hcmr.gr/en/portfolio/tsiola-anastasia/){:target="_blank"} *et al*. Exploring coral and sponge viromes from samples collected in Greece as part of the **Consortia** project
+* [Dr. Ioulia Santi](https://imbbc.hcmr.gr/user/isanti/){:target="_blank"} (<a href="https://orcid.org/0000-0002-0202-8256" target="_blank" aria-label="View ORCID record - 0000-0002-0202-8256">0000-0002-0202-8256
+<img src="/images/orcid.svg" alt="ORCID iD" style="height: 1.25em; padding-left: .25em;"/></a>)
+ & [Dr. Melina Stavroulaki](https://imbbc.hcmr.gr/user/mstavroulaki/){:target="_blank"} (<a href="https://orcid.org/0000-0003-4392-7159" target="_blank" aria-label="View ORCID record - 0000-0003-4392-7159">0000-0003-4392-7159
+<img src="/images/orcid.svg" alt="ORCID iD" style="height: 1.25em; padding-left: .25em;"/></a>) 
+*et al*. Establishing the [Greek node](https://embrc.gr/]{:target="_blank"}) of the [European Marine Biological Resource Centre](https://www.embrc.eu/){:target="_blank"} research infrastructure and contributing to the biological information channel of the Digital Twin of the Ocean ([DTO Bioflow](https://dto-bioflow.eu/)){:target="_blank"}
+* [Dr. Anastasia Tsiola](https://www.hcmr.gr/en/portfolio/tsiola-anastasia/){:target="_blank"} (<a href="https://orcid.org/0000-0002-7736-625X" target="_blank" aria-label="View ORCID record - 0000-0002-7736-625X">0000-0002-7736-625X
+<img src="/images/orcid.svg" alt="ORCID iD" style="height: 1.25em; padding-left: .25em;"/></a>)
+ *et al*. Exploring viromes from corals and sponges collected in Greece as part of the **Consortia** project
 
 ## 🌐 Research communities {#research-communities}
 
 * [ELIXIR Europe Biodiversity](https://elixir-europe.org/communities/biodiversity){:target="_blank"} ([white paper](https://f1000research.com/articles/12-499/v2){:target="blank"}) Building connections across the many infrastructures and services to bring data science solutions to the priority area of Biodiversity, food security and pathogens
 * [ELIXIR Europe Microbiome](https://elixir-europe.org/communities/microbiome){:target="_blank"} ([white paper](https://f1000research.com/articles/13-50/v2)) Overcoming non-uniform practices in microbiome research by aligning standards, protocols, and methods; leveraging [FAIR](https://en.wikipedia.org/wiki/FAIR_data){:target="_blank"}/[CARE](https://en.wikipedia.org/wiki/CARE_Principles_for_Indigenous_Data_Governance){:target="_blank"} principles in microbiome studies; and promoting training and federated data analysis to meet community needs.
 * [Genomic Standard Consortium](https://www.gensc.org/){:target="_blank"} ([publication collection](https://pubmed.ncbi.nlm.nih.gov/collections/45575934/?sort=date&size=200){:target="_blank"}) Enabling genomic data integration, discovery and comparison through international community-driven standards
+* **The Molecular Biodiversity Greece Community** ([white paper](https://zenodo.org/records/7078816){target="_blank"})  A national scientific network leveraging genomics and bioinformatics to connect infrastructures for monitoring, preserving, and guiding policy for Greece's highly threatened endemic biodiversity
 * [Mikrobiokosmos](https://mikrobiokosmos.org/){:target="_blank"} ([mission](https://mikrobiokosmos.org/society/){:target="_blank"}) The Hellenic Scientific Society to promote the research for the protection, exploration and exploitation of the microbial national resources
 
 ## 🎓 Academic Lectures & Teaching {#teaching}
