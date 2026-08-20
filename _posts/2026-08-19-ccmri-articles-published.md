@@ -3,7 +3,7 @@ layout: single
 title: "CCMRI articles published, dive in to find out more"
 date: 2026-08-19
 categories: publications
-tags: [CCMRI, Microbiome, Climate Change, LLM, curation, functional similarity, study relatedness]
+tags: [ccmri, microbiome, climate change, LLM, curation, functional similarity, study relatedness]
 sidebar:
   nav: "main"
 ---
