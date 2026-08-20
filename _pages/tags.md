@@ -1,5 +1,7 @@
 ---
 layout: tags
-title: "Browse News by Topic"
+title: "News"
 permalink: /news/tags/
 ---
+
+Click [here](/news/) to browse the news by date
