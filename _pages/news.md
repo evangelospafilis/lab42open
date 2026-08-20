@@ -6,4 +6,4 @@ sidebar:
     nav: "main"
 ---
 
-Click [here](/news/tags/) to browse news by topic
+Click [here](/news/tags/) to browse the news by topic
