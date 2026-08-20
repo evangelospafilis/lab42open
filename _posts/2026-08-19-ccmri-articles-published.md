@@ -18,7 +18,7 @@ sidebar:
   &nbsp; [Web platform](https://ccmri.hcmr.gr/){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-026-51914-z" data-style="small_rectangle"></span>
 
-  📝 A database of 169 microbiome studies related to climate change; curated in both manually and via a hybrid (LLM triaging - curator validation/labelling) system. The latter achieved a 30-fold acceleration in the curation efficiency compared to the former (manual curation).
+  📝 A database of 169 microbiome studies related to climate change; curated both manually and via a hybrid (LLM triaging - curator validation/labelling) system. The latter achieved a 30-fold acceleration in the curation efficiency compared to the former (manual curation).
 
 * Venetsianou NK, Paragkamian S, Kalaentzis K, Loukas A, Damianou C, Lagani V, Jensen LJ, Pafilis E. *2026*. **LLM-Assessed Relatedness of Microbiome Study Descriptions Aligns more Strongly with Functional than with Taxonomic Profile Similarity**. Microb Ecol. *89, 104 (2026)*
 doi: 10.1007/s00248-026-02730-5.
@@ -27,7 +27,7 @@ doi: 10.1007/s00248-026-02730-5.
   &nbsp; [Repository](https://github.com/lab42open-team/similarity_metrics){:target="_blank"} 
 <span class="__dimensions_badge_embed__" data-doi="10.1007/s00248-026-02730-5" data-style="small_rectangle"></span>
 
-  📝 A show case of how function similarity is preserved among similar microbiome studies, while this is not the case for taxonomy similariry.
+  📝 A show case of how related microbiome studies exhibit stronger functional similarity in comparison to taxonomy similarity.
 
 <!-- citation badge, enable javascript-->
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
