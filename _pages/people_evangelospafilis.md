@@ -1,5 +1,5 @@
 ---
-title: Evangelos Pafilis
+title: "Evangelos Pafilis"
 layout: single
 permalink: /people/evangelospafilis/
 ---
@@ -10,10 +10,11 @@ permalink: /people/evangelospafilis/
 
 ## Research interests
 
-My research focuses on text mining of large corpora, for [organism](http://organisms.hcmr.gr), process, [environment](http://environments.hcmr.gr) and other [biological entity mentions](http://reflect.ws).
-The aim is to [extract](http://extract.hcmr.gr) knowledge and propose innovative hypotheses. This is in relevance to a broad sprectrum of biological application ranging from biomedicine to molecular ecology and biodiversity. <br>
+Coming from a background on data integration and literature/text mining Ι am intersted in shedding light, discovering, and sharing knowledge in the microbial ecology and biodiversity fields. Together with metadata processing and data visualization, these have been applied in a broad spectrum of cases, from characterizing microorganism, biological process, and environment associations (see PREGO), to elucidating climate-change related microbiome studies (see CCMRI), to developing user friendly tools for molecular biodiversity interactive spatial browsing (see Odyssey).
 
-At the mean time I enjoy co-coordinating the Institute of Marine Biology Biotechnology and Aquaculture's [High Performance Computing](http://hpc.hcmr.gr) facility, organizing citizen-science [sampling and analysing soil samples around Crete](http://wiki.gensc.org/index.php?title=GSC_island_sampling_day), and taking pictures. <br>
+Leveraging Artificial Intelligence/Large Language Models (LLMs), training bioinformaticians to the above ends, while exploring state-of-the-art bridged with analysis experience gained from traditional method application is main driving force of present efforts.
+
+At the mean time, I enjoy teaching the Linux operating system to bioinformatics MSc programs, organizing citizen-science [sampling and analysing soil samples around Crete](http://wiki.gensc.org/index.php?title=GSC_island_sampling_day), cycling, and taking pictures.<br>
 
 ## Brief CV
 
@@ -29,24 +30,6 @@ At the mean time I enjoy co-coordinating the Institute of Marine Biology Biotech
 * [Biocreative V (2015): interactive annotation task](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-v/iat-task-biocurators/), top performance by the [EXTRACT](http://extract.hcmr.gr) metadata annotation system 
 * Encyclopedia of Life Rubenstein Fellowship (2013)
 * Elsevier grand challenge (2009): knowledge enhancement in the life sciences, as a member of the Reflect team 
-
-<!--## Workshop (co-) hosted
-*
-*
-*
-*
-* 
--->
-
-
-<!--## Visiting researcher, hackathon/datathon participations
-* 
-*
-*
-* 
--->
-
-
 
 ## Other profile links
 
