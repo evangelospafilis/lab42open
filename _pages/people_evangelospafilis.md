@@ -4,17 +4,18 @@ layout: single
 permalink: /people/evangelospafilis/
 ---
 
-<pafilis@hcmr.gr> ([ORCiD:0000-0001-5079-0125](https://orcid.org/0000-0001-5079-0125))
+<pafilis@hcmr.gr> (<a href="https://orcid.org/0000-0001-5079-0125" target="_blank" aria-label="View ORCID record - 0000-0001-5079-0125">0000-0001-5079-0125
+<img src="/images/orcid.svg" alt="ORCID iD" style="height: 1.25em; padding-left: .25em;"/></a>)
 
 ![Photo of Evangelos Pafilis](people_evangelospafilis.jpg)
 
 ## Research interests
 
-Coming from a background on data integration and literature/text mining Ι am intersted in shedding light, discovering, and sharing knowledge in the microbial ecology and biodiversity fields. Together with metadata processing and data visualization, these have been applied in a broad spectrum of cases, from characterizing microorganism, biological process, and environment associations (see PREGO), to elucidating climate-change related microbiome studies (see CCMRI), to developing user friendly tools for molecular biodiversity interactive spatial browsing (see Odyssey).
+Coming from a background on data integration and literature/text mining Ι am intersted in shedding light, discovering, and sharing knowledge in the microbial ecology and biodiversity fields. Together with metadata processing and data visualization, these have been applied in a broad spectrum of cases, from characterizing microorganism, biological process, and environment associations ([PREGO](https://prego.hcmr.gr){:target="blank"}), to elucidating climate-change related microbiome studies ([CCMRI](https://ccmri.hcmr.gr){:target="blank"}), to developing user friendly tools for molecular biodiversity interactive spatial browsing (see Odyssey).
 
-Leveraging Artificial Intelligence/Large Language Models (LLMs), training bioinformaticians to the above ends, while exploring state-of-the-art bridged with analysis experience gained from traditional method application is main driving force of present efforts.
+Leveraging Artificial Intelligence/Large Language Models (LLMs), training bioinformaticians on the aforementioned, while exploring state-of-the-art bridged with analysis experience gained from traditional method application is main driving force of present efforts.
 
-At the mean time, I enjoy teaching the Linux operating system to bioinformatics MSc programs, organizing citizen-science [sampling and analysing soil samples around Crete](http://wiki.gensc.org/index.php?title=GSC_island_sampling_day), cycling, and taking pictures.<br>
+On the side, I enjoy teaching the Linux operating system to bioinformatics MSc programs, organizing citizen-science [sampling and analysing soil samples around Crete](http://wiki.gensc.org/index.php?title=GSC_island_sampling_day), cycling, and taking pictures.<br>
 
 ## Brief CV
 
