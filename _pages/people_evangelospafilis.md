@@ -11,11 +11,11 @@ permalink: /people/evangelospafilis/
 
 ## Research interests
 
-Coming from a background on data integration and literature/text mining Ι am intersted in shedding light, discovering, and sharing knowledge in the microbial ecology and biodiversity fields. Together with metadata processing and data visualization, these have been applied in a broad spectrum of cases, from characterizing microorganism, biological process, and environment associations ([PREGO](https://prego.hcmr.gr){:target="blank"}), to elucidating climate-change related microbiome studies ([CCMRI](https://ccmri.hcmr.gr){:target="blank"}), to developing user friendly tools for molecular biodiversity interactive spatial browsing (see Odyssey).
+With a background in data integration and literature text mining, I focus on uncovering and sharing knowledge within microbial ecology and biodiversity. Utilizing metadata processing and data visualization, I apply these methods across diverse use cases—from mapping associations among microorganisms, environments, and processes  ([PREGO](https://prego.hcmr.gr){:target="blank"}), to characterizing climate change-related studies ([CCMRI](https://ccmri.hcmr.gr){:target="blank"}), and creating tools for interactive, spatial molecular biodiversity exploration (Odyssey).
 
-Leveraging Artificial Intelligence/Large Language Models (LLMs), training bioinformaticians on the aforementioned, while exploring state-of-the-art bridged with analysis experience gained from traditional method application is main driving force of present efforts.
+Leveraging Artificial Intelligence/Large Language Models (LLMs) and bridging these with analysis skills/processes grained from/based-on traditional methods, drive our current lab efforts.
 
-On the side, I enjoy teaching the Linux operating system to bioinformatics MSc programs, organizing citizen-science [sampling and analysing soil samples around Crete](http://wiki.gensc.org/index.php?title=GSC_island_sampling_day), cycling, and taking pictures.<br>
+On the side, I enjoy teaching the Linux operating system, training the next generation of bioinformaticians, organizing citizen-science [sampling and analysing soil samples around Crete](https://genomicsstandardsconsortium.github.io/isd-crete-website){:target="blank"}, cycling, and taking pictures.<br>
 
 ## Brief CV
 
