@@ -13,7 +13,7 @@ permalink: /people/evangelospafilis/
 
 With a background in data integration and literature text mining, I focus on uncovering and sharing knowledge within microbial ecology and biodiversity. Utilizing metadata processing and data visualization, I apply these methods across diverse use cases—from mapping associations among microorganisms, environments, and processes  ([PREGO](https://prego.hcmr.gr){:target="blank"}), to characterizing climate change-related studies ([CCMRI](https://ccmri.hcmr.gr){:target="blank"}), and creating tools for interactive, spatial molecular biodiversity exploration ([Odyssey](https://biodataanalysisgroup.github.io/ELIXIR-BFSP-Odyssey/){:target="blank"}).
 
-Leveraging Artificial Intelligence/Large Language Models (LLMs), while bridging these with traditional method skills/processes, drive our current lab efforts.
+Leveraging Artificial Intelligence/Large Language Models (LLMs), while bridging these with traditional method skills/processes, drive our current lab efforts. Find out more on the <a href="/join-us/" target="blank">Join Us</a> and <a href="/projects/" target="blank">Projects</a> pages.
 
 On the side, I enjoy teaching the Linux operating system, training the next generation of bioinformaticians, organizing citizen-science [sampling and analysing soil samples around Crete](https://genomicsstandardsconsortium.github.io/isd-crete-website){:target="blank"}, cycling, and taking pictures.<br>
 
