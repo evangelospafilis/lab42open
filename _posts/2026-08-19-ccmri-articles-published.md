@@ -8,7 +8,7 @@ sidebar:
   nav: "main"
 ---
 
-... and the **CCMRI** papers are published!; 🌍 two innovative applications of Artifical Intelligence/Large Language Models (LLMs) on microbiome research can be found below:
+... and the **CCMRI** papers are published!; 🌍 two innovative applications of Artificial Intelligence/Large Language Models (LLMs) on microbiome research can be found below:
 
 ### 📚 Published Papers 🔬 
 
