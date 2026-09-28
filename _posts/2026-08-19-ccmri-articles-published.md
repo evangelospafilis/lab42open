@@ -18,7 +18,7 @@ sidebar:
   • [Web platform](https://ccmri.hcmr.gr/){:target="_blank"}
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-026-51914-z" data-style="small_rectangle"></span>
 
-  📝 **Key Takeaway:** Introduces a curated framework of 169 climate-related microbiome datasets. By deploying a hybrid **LLM-triaging and curator-validation engine**, the pipeline achieved a **30-fold acceleration** in dataset processing efficiency compared to traditional manual workflows.
+  📝 **Key Takeaway:** Introduces a curated framework of 169 climate-change-related microbiome datasets. By deploying a hybrid **LLM-triaging and curator-validation engine**, the pipeline achieved a **30-fold acceleration** in dataset processing efficiency compared to traditional manual workflows.
 
 * Venetsianou NK, Paragkamian S, Kalaentzis K, Loukas A, Damianou C, Lagani V, Jensen LJ, Pafilis E. *2026*. **LLM-Assessed Relatedness of Microbiome Study Descriptions Aligns more Strongly with Functional than with Taxonomic Profile Similarity**. Microb Ecol. *89, 104 (2026)*
 doi: 10.1007/s00248-026-02730-5.
